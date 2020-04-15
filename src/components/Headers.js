@@ -1,8 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
+import SVG from 'react-inlinesvg';
 import { Container } from './Layout';
 import { LocationSearch } from './Locations';
 import { Button } from './Buttons';
+import logo from '../logo.svg';
 
 export const Nav = () => {
   return (
@@ -21,7 +23,7 @@ export const HeroHeader = ({ search }) => {
   return (
     <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
       <Container>
-        <h1>Deal Delivers</h1>
+        <SVG src={logo} style={{ margin:'1.5rem 0' }}/>
         <p>Helping the high-street with local restaurants, shops & essential services that deliver direct to your door</p>
         <LocationSearch />
       </Container>
