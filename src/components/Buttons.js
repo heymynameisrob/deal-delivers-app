@@ -24,7 +24,7 @@ const StyledButton = styled.a`
   font-size:0.85rem;
   text-decoration:none;
   background-color:rgba(255,255,255,0.1);
-  color:#fff;
+  color:var(--surface);
   border-radius:0.25rem;  
   border:none;
   text-align:center;  

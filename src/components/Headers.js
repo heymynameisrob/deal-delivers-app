@@ -1,6 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 import SVG from 'react-inlinesvg';
+import metadata from '../metadata.json';
+
 import { Container } from './Layout';
 import { LocationSearch } from './Locations';
 import { Button } from './Buttons';
@@ -9,7 +11,7 @@ import logo from '../logo.svg';
 export const Nav = () => {
   return (
     <StyledNav role="navigation">
-      <Button path="mailto:hello@dealdelivers.com?subject=List Me">
+      <Button path={`mailto:${metadata.email}?subject=List Me`}>
         📍 List your location
       </Button>
       <Button path="https://www.facebook.com/groups/2607836459447926/">
@@ -23,7 +25,7 @@ export const HeroHeader = ({ search }) => {
   return (
     <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
       <Container>
-        <SVG src={logo} style={{ margin: '1.5rem 0', maxWidth: '100%' }} />
+        {metadata.hasLogo ? <SVG src={logo} style={{ margin: '1.5rem 0', maxWidth: '100%' }} /> : <h1>{metadata.name}</h1>}
         <p>Helping the highstreet with local restaurants, shops & essential services that deliver direct to your door</p>
         <LocationSearch />
       </Container>

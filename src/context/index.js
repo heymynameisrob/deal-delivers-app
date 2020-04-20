@@ -1,10 +1,22 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { DataProvider } from './DataProvider';
+import metadata from '../metadata.json';
+
+const ThemeProvider = ({ children }) => {
+
+  // Adds theme to html root element
+  useEffect(() => {
+    document.documentElement.dataset.theme = metadata.theme;
+  }, []);
+  return <div>{children}</div>
+}
 
 const AppProviders = ({ children }) => {
   return (
     <DataProvider>
-      {children}
+      <ThemeProvider>
+        {children}
+      </ThemeProvider>
     </DataProvider>
   );
 };

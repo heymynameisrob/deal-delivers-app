@@ -11,7 +11,7 @@ export const CookieNotice = () => {
   const cookies = new Cookies();
 
   useEffect(() => {
-    const cookie = cookies.get('gaAccept');    
+    const cookie = cookies.get('gaAccept');
     setHasCookie(cookie);
   }, []);
 
@@ -20,14 +20,14 @@ export const CookieNotice = () => {
     setHasCookie(true);
   }
 
-  return(
+  return (
     <StyledCookieBarWrap visible={!hasCookie}>
       <StyledCard base="var(--base)" align="center">
         <StyledCookieBarInner>
           <span>🍪</span>
           <p>This website uses cookies to give you a better experience.</p>
         </StyledCookieBarInner>
-      <ButtonPrimary onClick={setCookieAccept}>Accept</ButtonPrimary>
+        <ButtonPrimary onClick={setCookieAccept}>Accept</ButtonPrimary>
       </StyledCard>
     </StyledCookieBarWrap>
   )
@@ -69,7 +69,7 @@ export const LocationCard = ({ details, children, ...rest }) => {
   const { cover, name, website, phone, file, address, deliveryHours, safetyTips, email } = details;
   const { postModalContent } = useData();
   return (
-    <StyledCard base="#fff" {...rest}>
+    <StyledCard {...rest}>
       <StyledCardImageWrap>
         <img src={cover} alt={name} />
       </StyledCardImageWrap>
@@ -100,7 +100,7 @@ const StyledCard = styled.article`
   justify-content:${props => props.align || "flex-start"};
   align-items:${props => props.align || "flex-start"};
   flex-flow:column nowrap;
-  background-color:${props => props.base || "#FFF"};
+  background-color:${props => props.base || "var(--surface)"};
   border-radius:0.5rem;
   box-shadow:0 1rem 2rem rgba(0,0,0,0.08);  
   height:100%;

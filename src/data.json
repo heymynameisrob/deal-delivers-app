@@ -77,20 +77,6 @@
     "id": "03-27-jenkins-son"
   },
   {
-    "name": "Milaad Tandoori",
-    "description": "Indian restaurant on Middle Street. Currently offering takeaway and deliveries",
-    "tags": [
-      "Takeaway",
-      "Indian",
-      "Food"
-    ],
-    "address": "56 Middle Street, Deal CT14 6HT, England",
-    "phone": "+44 1304 382333",
-    "safetyTips": "Contactless deliveries",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585330366/milaad-tandoori_m1i6tw.jpg",
-    "id": "03-27-milaad-tandoori"
-  },
-  {
     "name": "Real Deal Roasters",
     "description": "Real Deal Roasters. We roast high quality coffee right here on your doorstep in Deal. We deliver, free of charge, anywhere in East Kent, every day of the week.",
     "tags": [
