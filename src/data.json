@@ -145,10 +145,12 @@
     "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585599294/la_pinardier_deal_b1rzwg.jpg",
     "tags": [
       "Wine",
-      "Booze"
+      "Booze",
+      "Gifts"
     ],
-    "website": "frogandscot@gmail.com",
+    "website": "https://www.facebook.com/pg/Le-Pinardier-1650719178533483/posts/?ref=page_internal",
     "deliveryHours": [],
+    "email": "frogandscot@gmail.com",
     "description": "Local wine orders",
     "id": "03-30-la-pinardier"
   },
@@ -281,7 +283,7 @@
       "Deal Market",
       "Bakery"
     ],
-    "website": "",
+    "website": "https://www.facebook.com/KingsdownBreads/",
     "email": "info@kingsdownbreads.co.uk",
     "description": "A range of freshly baked artisan breads made from the best ingredients delivered to your door. Delivery or collection. Monday, Wednesday, Friday at present. Delivery 11am-2pm",
     "id": "03-31-kingsdown-bread"
@@ -388,7 +390,7 @@
     "id": "04-03-simply-ink-toner"
   },
   {
-    "name": "Spa @ Home Gift Sets",
+    "name": "Daisy Green Spa @ Home Gift Sets ",
     "description": "A pamper night at home, a birthday gift, a treat to cheer someone up or if you are running low of your beauty products, I have facial, body, hand and pregnancy gift sets that can be ordered and safely delivered or collected. DM through Instagram for menu and order",
     "tags": [
       "Spa",
@@ -399,6 +401,7 @@
     "website": "https://www.instagram.com/daisygreen_dealkent/",
     "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585913703/daisy-green-skincare_wsyaym.jpg",
     "safetyTips": "Contactless deliveries",
+    "phone": "07504023086",
     "id": "04-03-spa-home-gift-sets"
   },
   {
@@ -650,11 +653,11 @@
       "Groceries",
       "Gifts"
     ],
-    "website": "",
+    "website": "https://www.facebook.com/holalacolina",
     "deliveryHours": [],
     "file": "",
     "email": "holalacolina@gmail.com",
-    "description": "At Casa Colina we produce small batches of our own extra-virgin olive oil from our 200 ancient olives trees on our finca Spain. It is organic, cold pressed and unfiltered. The resulting oil is extra virgin with a low acidity of 0.4%. It is soft and buttery in flavour and perfect for cooking and drizzling. bottled or as refills. We can deliver bottles to your door step. It is priced as follows: Bottled: 1ltr £12, 750ml £9, 500ml £6 Refills:  1ltr £10, 750ml £7.50, 500ml £5",
+    "description": "At Casa Colina we produce small batches of our own delicious olive oil from our 200 ancient olives trees on our finca Spain. It is organic, cold pressed and unfiltered. The resulting oil is extra virgin with a low acidity of 0.4%. It is soft and buttery in flavour and perfect for cooking and drizzling. We can deliver it bottled to your door step.",
     "id": "04-10-casa-colina-olive-oil"
   },
   {
@@ -928,6 +931,59 @@
     "email": "smokeonthewater@btinternet.com",
     "description": "High Street shop providing accessories and gifts for your home including gorgeous candles, soaps, hand creams,  greetings cards and lots more. Delivery to your doorstep in Deal, daily by bicycle or we can wrap and send gifts to loved ones. Follow us on Facebook or message if you are interested in anything in our windows.",
     "id": "04-15-smoke-on-the-water"
+  },
+  {
+    "name": "Chicken King Deal",
+    "description": "Chicken burgers, chips and nuggets. Takeaway on Deal highstreet is now delivering. Please use the website or call to order.",
+    "tags": [
+      "Takeaway",
+      "Food",
+      "Chicken Fastfood"
+    ],
+    "address": "Chicken King 2 South Street, Deal, CT14 7AW",
+    "website": "https://www.chickenkingdeal.co.uk/",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587057429/Screen_Shot_2020-04-16_at_18.16.50_bkmiu3.png",
+    "safetyTips": "Contactless deliveries, please speak directly regarding safety",
+    "phone": "01304 239982",
+    "id": "04-16-chicken-king-deal"
+  },
+  {
+    "safetyTips": "Social distancing measures taken and please ask directly",
+    "name": "Cycle Tech Canterbury",
+    "phone": " 07768 570068",
+    "pdf": "",
+    "address": "Walmer",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587235059/E9993A967EEE4EDB936BC96F8AD76525_ijeexu.jpg",
+    "tags": [
+      "Cycle",
+      "Repairs",
+      "Parts"
+    ],
+    "website": "http://www.cycletechcanterbury.co.uk/",
+    "deliveryHours": [],
+    "file": "",
+    "email": "enquiries@cycleetchcanterbury.co.uk",
+    "description": "Based in Walmer, I offer bicycle servicing and repairs and hold a stock of parts and accessories and collect and return bikes from customer home or work addresses, at no charge.",
+    "id": "04-18-cycle-tech-canterbury"
+  },
+  {
+    "safetyTips": "Please speak directly for safety measures.",
+    "name": "Sholden Village Store",
+    "phone": "01304 363732",
+    "pdf": "",
+    "address": "1 The Street Sholden CT14 0AL",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587234963/sholden-village-store_t2uun7.jpg",
+    "tags": [
+      "Newspapers",
+      "Groceries",
+      "Essentials"
+    ],
+    "website": "https://www.facebook.com/Sholdenvillagestore/",
+    "deliveryHours": [],
+    "file": "",
+    "email": "",
+    "description": "Local village store, that sells a selection of everyday essentials. Newspapers, cards, helium balloons and we offer an engraving service too. For residents outside Sholden please call us and place an order and then we can take a payment over the phone and have your shopping ready to just pick up.  We also have out of hours collection time of shopping for front line workers. ",
+    "id": "04-18-sholden-village-store"
   },
   {
     "safetyTips": "Deliveries will be left on your doorstep",

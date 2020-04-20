@@ -19,7 +19,7 @@ export const LocationSearch = () => {
   return (
     <StyledInputWrap>
       <Search />
-      <InputFilter debounceTime={200} placeholder="What are you looking for" />
+      <InputFilter debounceTime={200} placeholder="Try searching what you're looking for e.g. bread, coffee, beer, prescriptions" />
     </StyledInputWrap>
   )
 

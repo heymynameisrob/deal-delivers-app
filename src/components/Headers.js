@@ -23,8 +23,8 @@ export const HeroHeader = ({ search }) => {
   return (
     <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
       <Container>
-        <SVG src={logo} style={{ margin:'1.5rem 0' }}/>
-        <p>Helping the high-street with local restaurants, shops & essential services that deliver direct to your door</p>
+        <SVG src={logo} style={{ margin: '1.5rem 0', maxWidth: '100%' }} />
+        <p>Helping the highstreet with local restaurants, shops & essential services that deliver direct to your door</p>
         <LocationSearch />
       </Container>
     </StyledHeroHeader >
