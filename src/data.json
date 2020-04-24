@@ -850,25 +850,6 @@
     "file": "",
     "email": "",
     "description": "Our lavish and delicious menu includes tasty dishes like Kebabs from different cuisines, wraps, lahmacun and even hot and cold mezes like grilled haloumi. But we have something special for your family as well – delicious kids’ menu will woo your kids. Open daily 5.00-12.00pm ",
-    "id": "04-15-marmaris-kebab-1"
-  },
-  {
-    "safetyTips": "Please contact directly for safety measures",
-    "name": "Marmaris Kebab",
-    "phone": "01304389007",
-    "pdf": "",
-    "address": "1 South Street, DEAL CT14 7AW",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1586934472/kebab_f72hyl.jpg",
-    "tags": [
-      "Takeaway",
-      "Kebab",
-      "Food"
-    ],
-    "website": "http://www.marmariskebabdeal.co.uk/contact",
-    "deliveryHours": [],
-    "file": "",
-    "email": "",
-    "description": "Our lavish and delicious menu includes tasty dishes like Kebabs from different cuisines, wraps, lahmacun and even hot and cold mezes like grilled haloumi. But we have something special for your family as well – delicious kids’ menu will woo your kids. Open daily 5.00-12.00pm ",
     "id": "04-15-marmaris-kebab"
   },
   {
@@ -948,7 +929,7 @@
     "website": "http://www.cycletechcanterbury.co.uk/",
     "deliveryHours": [],
     "file": "",
-    "email": "enquiries@cycleetchcanterbury.co.uk",
+    "email": "enquiries@cycletechcanterbury.co.uk",
     "description": "Based in Walmer, I offer bicycle servicing and repairs and hold a stock of parts and accessories and collect and return bikes from customer home or work addresses, at no charge.",
     "id": "04-18-cycle-tech-canterbury"
   },
@@ -970,6 +951,129 @@
     "email": "",
     "description": "Local village store, that sells a selection of everyday essentials. Newspapers, cards, helium balloons and we offer an engraving service too. For residents outside Sholden please call us and place an order and then we can take a payment over the phone and have your shopping ready to just pick up.  We also have out of hours collection time of shopping for front line workers. ",
     "id": "04-18-sholden-village-store"
+  },
+  {
+    "name": "Art4",
+    "description": "Giclee Printing Service. We are able to receive artists & photographers work via email or WeTransfer. Offering the highest standard in professional printing. We have wide format printer, capable of printing 64\" and 44\" wide.",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587493285/art4_epson_64_inch_iogrnk.jpg",
+    "website": "https://www.art4.biz/",
+    "phone": "07432474917",
+    "address": "The Studio to the rear of Joanne Harmer gallery, 134 High Street Deal Kent CT14 6BE",
+    "tags": [
+      "Canvases",
+      "Epson Professional",
+      "Art"
+    ],
+    "safetyTips": "Please speak directly ",
+    "id": "04-21-art4"
+  },
+  {
+    "safetyTips": "Please speak directly",
+    "name": "Deal Poets Society - uplifting poetry",
+    "phone": "07894016452",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587483275/poet-society_by5llu.jpg",
+    "tags": [
+      "Gifts",
+      "Book",
+      "Charity"
+    ],
+    "website": "https://www.justgiving.com/fundraising/dealpoetssociety",
+    "email": "Gillian.burford54@gmail.com",
+    "description": "A group of Deal writers have created an anthology of their poetry on Love, Life, Loss.  The book was launched at the Lighthouse in Walmer back in February (pre Lockdown!) to a full house. Plans for further live events including an appearance at the Sandwich Folk and Ale Festival sadly have been postponed.  We have covered all printing costs between us and have decided to donate all proceeds from sale of this volume to Pilgrims Hospices.  Cover Price £5.99 but donations of any amount welcomed at this difficult time. See our JustGiving page or to order a copy please email or text",
+    "id": "04-21-deal-poets-society-uplifting-poetry"
+  },
+  {
+    "safetyTips": "We are offering home deliveries just the same as the post office, where we are conversing with our customers before and giving an allotted time when we can deliver.  We are turning up with protective wear to ensure the safety of our customer.",
+    "name": "Joanne Harmer Gallery",
+    "phone": "01304 373656",
+    "address": "134 High Street  Deal  Kent  CT14 6BE",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587482720/joanne_harmer_gallery_d8nwgu.jpg",
+    "tags": [
+      "Picture framing",
+      "Gifts",
+      "Art"
+    ],
+    "website": "https://www.joanneharmergallery.co.uk/",
+    "email": "info@joanneharmergallery.com",
+    "description": "Joanne Harmer Gallery is an eclectic mix of 'magpie' must haves. Our products are perfect for those who wish to embelish their own homes, or those of friends and families, with beautiful accessories and fine art.",
+    "id": "04-21-joanne-harmer-gallery"
+  },
+  {
+    "safetyTips": "Social distancing measures taken and doorstep delivery",
+    "name": "Lollipop Ladies",
+    "phone": "07710598550",
+    "pdf": "",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587482340/20200419_113411_feyy2c.jpg",
+    "tags": [
+      "Gifts",
+      "Food",
+      "Sweets"
+    ],
+    "website": "www.facebook.com/lollipopladieshire ",
+    "deliveryHours": [],
+    "file": "",
+    "email": "",
+    "description": "Offering a contactless doorstep delivery service for a box of random pic&mix sweets. £5.00 each. Deal area only. PayPal or bank transfer only.",
+    "id": "04-21-lollipop-ladies"
+  },
+  {
+    "name": "test",
+    "description": "test",
+    "address": "test",
+    "safetyTips": "test",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587483275/poet-society_by5llu.jpg",
+    "id": "04-21-test"
+  },
+  {
+    "safetyTips": "Please speak directly for safety measures.",
+    "name": "Hey Hey Chinese",
+    "phone": "01304-365388",
+    "pdf": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587660458/chinese-deal_qematb.ai",
+    "address": "8 VICTORIA ROAD, DEAL, KENT",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587660726/hey_hey_chinese_sutj2g.jpg",
+    "tags": [
+      "Chinese",
+      "Takeaway",
+      "Food"
+    ],
+    "website": "https://www.heyheydeal.co.uk/",
+    "description": "Irresistible Recipes From Asian Kitchens",
+    "id": "04-23-hey-hey-chinese"
+  },
+  {
+    "safetyTips": "Contactless Deliveries and Payments",
+    "name": "P Small and Sons Butchers",
+    "phone": "07793059406",
+    "pdf": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587662891/Small-butcher_auwnyz.pdf",
+    "address": "Deal Market",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587662291/deal-market-butchers_zaypcs.jpg",
+    "tags": [
+      "Butcher",
+      "Eggs",
+      "Food"
+    ],
+    "deliveryHours": [
+      "Saturday 11:00 - 16:00"
+    ],
+    "email": "lukesmall1995@gmail.com",
+    "description": "The Deal Market butcher. Award winning sausages. Delicious meat and eggs available. Delivery to Deal and Walmer every Saturday. £10 minimum order. Menu attached for prices.",
+    "id": "04-23-p-small-and-sons-butchers"
+  },
+  {
+    "name": "Rook Butchers",
+    "description": "Deal Rooks the highstreet butchers are doing free delivery for Deal and surrounding areas, £15 minimum spend. Phone us directly and just tell us what you’d like and we will deliver to you on Wednesdays and Fridays straight to your doorstep",
+    "address": "Deal highstreet",
+    "phone": "01304 372085",
+    "safetyTips": "Contactless payment and deliveries",
+    "tags": [
+      "Butchers",
+      "Groceries",
+      "Food"
+    ],
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587661250/rook-butchers_gp7gbt.jpg",
+    "id": "04-23-rook-butchers"
   },
   {
     "safetyTips": "Deliveries will be left on your doorstep",
