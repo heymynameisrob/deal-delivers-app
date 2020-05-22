@@ -1,15 +1,14 @@
 {
-  "safetyTips": "Take away or pre-ordered collection only. Please observe social distancing queuing measures. No outdoor seating. Card payments only. ",
-  "name": "Hut 55",
-  "phone": " 01304 448283",
-  "address": "Deal beach, Marine Road (next to the Sea Scouts), Deal, CT14 7DN",
-  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1590176800/55D4E8D5-36EE-4EC6-B4C3-005417502E04_1_jr9aw0.jpg",
+  "description": "Real dairy ice cream delivered to your door.  We deliver daily (Mon-Fri) to Deal and all areas within 10 miles of CT14 8JL. Minimum order is just 2 x 750ml with free delivery. An up to date list of flavours can be found on our website along with all details of how to order via email only.",
+  "name": "Solley's Ice Cream",
   "tags": [
-    "Coffee",
-    "Picnic",
-    "Takeaway"
+    "Ice Cream",
+    "Dairy",
+    "Food"
   ],
-  "website": "https://www.hut55.co.uk/",
-  "email": "hut55deal@gmail.com",
-  "description": "Hut 55 on Deal beach is now open for take away coffee and food (from Saturday 23rd May) and are offering a 'pre-order your picnic' service via our website. Book a picnic bag filled with your favourite Hut goodies from massive sausage rolls to homemade cake, and pick up from our picnic collection point. The deckchairs may have gone, but you are welcome to enjoy your treats on the beautiful beach. "
+  "address": "The Dairy, Church Road, Ripple, CT14 8JL",
+  "website": "https://www.solleysicecream.co.uk/",
+  "safetyTips": "Contactless online payment by card only. \"Knock\" & drop delivery",
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1590177314/solleys_icecream_jeyzv8.jpg",
+  "email": "orders@solleysicecream.co.uk"
 }
