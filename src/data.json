@@ -91,21 +91,6 @@
     "id": "03-29-real-deal-roasters"
   },
   {
-    "name": "The Bicycle Repair Business",
-    "description": " The bicycle repair business is operating on a delivery and contactless collection basis.  Inner tubes, bike pumps and accessories available.",
-    "tags": [
-      "Cycling ",
-      "Bike Repair",
-      "Service"
-    ],
-    "address": "Deal",
-    "phone": "07543871963",
-    "safetyTips": "Contactless deliveries and collecions",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585512296/bike-repair-deal_vbck6w.jpg",
-    "website": "",
-    "id": "03-29-the-bicycle-repair-business"
-  },
-  {
     "safetyTips": "Contactless deliveries, order and pay online. Deliveries Saturday's online.",
     "name": "Eat and Mess",
     "phone": "",
@@ -142,18 +127,18 @@
   },
   {
     "safetyTips": "Contactless deliveries",
-    "name": "Max Flowers",
-    "phone": "07925264837",
-    "address": "Market Deal",
+    "name": "Friendy Flowers",
+    "phone": "",
+    "address": "Deal Market",
     "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585597882/max_flowers_deal_delivers_gzopky.jpg",
     "tags": [
-      "Deal Market",
+      "Eggs",
       "Flowers",
       "Gifts"
     ],
-    "website": "",
+    "website": "https://www.facebook.com/Friendys-Flowers-106396011026824/",
     "deliveryHours": [],
-    "description": "Delivering fresh market flowers. Tulips, Freesias, Lilies all £2 a bunch and larger bouquets £5. Delivered on a Friday to your door.",
+    "description": "Delivering fresh market flowers. Seasonal flowers, incuding poseys, bunches to big bouquets. Currently delivering Monday, Wednesday and Friday's. Including eggs. Please contact via their Facebook page. ",
     "id": "03-30-max-flowers"
   },
   {
@@ -260,7 +245,7 @@
   },
   {
     "safetyTips": "Fresh bread is a particularly safe product. It is heated to a surface temperature of 230oC and the inside gets to 97oC, which kills all bacteria and viruses. My bakery and working practices were recently inspected by Dover Council Environmental Health and were awarded 5 stars. Once it is baked, the bread is transferred to clean trays to cool and then to a purpose made compostable bag. Your delivery will be left in your designated space. The delivery person will stand at least 2m away from your door in your presence and sanitize their hands/gloves before and after your delivery.",
-    "name": "Kingsdown Bread",
+    "name": "Kingsdown Breads",
     "phone": "07773 595965",
     "address": "Deal Market",
     "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585681722/Kingsdown_Beach_xgptt0.jpg",
@@ -269,7 +254,7 @@
       "Deal Market",
       "Bakery"
     ],
-    "website": "https://www.facebook.com/KingsdownBreads/",
+    "website": "https://www.kingsdownbreads.co.uk/",
     "email": "info@kingsdownbreads.co.uk",
     "description": "A range of freshly baked artisan breads made from the best ingredients delivered to your door. Delivery or collection. Monday, Wednesday, Friday at present. Delivery 11am-2pm",
     "id": "03-31-kingsdown-bread"
@@ -347,7 +332,7 @@
     "name": "Kingsdown Water",
     "phone": "01304 381 481",
     "address": "Kingsdown",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585915584/Kingsdown-Sparkles-x4-FINAL-1002x708_virybw.jpg",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588700189/Kingsdown_Sparkling_Presse%CC%81s_jjbvd2.jpg",
     "tags": [
       "Drinks",
       "Groceries",
@@ -362,7 +347,7 @@
     "safetyTips": "Contactless deliveries",
     "name": "Simply Ink & Toner",
     "phone": "01304 360881",
-    "address": "Deal",
+    "address": "10 Broad Street, Deal, CT14 6ER",
     "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585905063/simply-ink_qlpybs.png",
     "tags": [
       "Printer Ink",
@@ -372,7 +357,7 @@
     "website": "https://www.facebook.com/simplyinkandtoner/",
     "deliveryHours": [],
     "email": "deal@simplyinkandtoner.co.uk",
-    "description": "The store is closed but Simply Ink is still delivering all your ink needs locally.",
+    "description": "The store is now open but Simply Ink is still delivering all your ink needs locally.",
     "id": "04-03-simply-ink-toner"
   },
   {
@@ -460,7 +445,7 @@
     "phone": "07514 757769",
     "pdf": "",
     "address": "Deal",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1585993528/IMG_5212_vhoiwh.jpg",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588874751/IMG_7037_dzpp7m.jpg",
     "tags": [
       "Cakes",
       "Gifts",
@@ -468,7 +453,7 @@
     ],
     "website": "https://www.instagram.com/missbocakes/",
     "email": "jaydeeh37@gmail.com",
-    "description": "Cupcakes £15 x 6 (minimum), 1 BROWNIE slab (£10) and/or TARTS £10 x 4 (minimum) in various flavours & designs - all lovingly baked fresh to order (minimum orders apply). Please allow 24 hours notice  Drop off : Tuesday to Saturday, 10am to 4pm",
+    "description": "Providing handcrafted indulgence in a box - your local artisan baker delivering bespoke cakes & treats for all occasion.  Gluten-free & Vegan available.",
     "id": "04-04-bocakes"
   },
   {
@@ -577,7 +562,7 @@
   {
     "safetyTips": "Please contact directly re safety measures. contactless deliveries.",
     "name": "Soul Chef Catering",
-    "phone": "",
+    "phone": "07871176466",
     "address": "Deal",
     "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1586201199/soul-chef-catering_v0pllm.jpg",
     "tags": [
@@ -588,7 +573,7 @@
     "deliveryHours": [],
     "file": "",
     "email": "chefdexterthomas@gmail.com",
-    "description": "Delivering fusion style home cooked food. Check Facebook or Instagram for daily menus. ",
+    "description": "Caribbean BBQ takeaway dinner. Vibrant menu inspired by local and seasonal produce. Your takeaway must be pre order by 11am the latest for free afternoon delivery or you can collect as pre agreed  from The Astor Theatre where we are based. Check our Facebook or Instagram for weekly menu and Community Wednesday's. ",
     "id": "04-06-soul-chef-catering"
   },
   {
@@ -606,7 +591,7 @@
     "deliveryHours": [],
     "file": "",
     "email": "",
-    "description": "17 Patterns produces quality British-made Soft Furnishings, Art and Wallpapers in collaboration with artists. Our uplifting patterns and prints transform homes and workspaces into blissful sanctuaries.    Enjoy a 40% OFF using our special Deal Residence discount by entering DEAL40 at checkout.  Fast FREE Global shipping & local delivery.",
+    "description": "17 Patterns produces quality British-made Soft Furnishings, Art and Wallpapers in collaboration with artists. Our uplifting patterns and prints transform homes and workspaces into blissful sanctuaries. Fast FREE Global shipping & local delivery.",
     "id": "04-09-17-patterns"
   },
   {
@@ -1019,14 +1004,6 @@
     "id": "04-21-lollipop-ladies"
   },
   {
-    "name": "test",
-    "description": "test",
-    "address": "test",
-    "safetyTips": "test",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587483275/poet-society_by5llu.jpg",
-    "id": "04-21-test"
-  },
-  {
     "safetyTips": "Please speak directly for safety measures.",
     "name": "Hey Hey Chinese",
     "phone": "01304-365388",
@@ -1074,6 +1051,527 @@
     ],
     "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587661250/rook-butchers_gp7gbt.jpg",
     "id": "04-23-rook-butchers"
+  },
+  {
+    "safetyTips": "Please ask directly",
+    "name": "Angels Launderama",
+    "phone": "01304 360926",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587803172/angels-deal_xihoza.jpg",
+    "tags": [
+      "Laundry",
+      "Specialist Cleaning",
+      "Duvet Cleaning"
+    ],
+    "website": "http://www.ironingangels.net/",
+    "email": "",
+    "description": "Angels Launderama in Deal Angels Launderama Deal is a launderette in Deal. They provide laundry services, duvet washing, service washes and drying.",
+    "id": "04-25-angels-launderama"
+  },
+  {
+    "safetyTips": "All services are available over Zoom or Skype",
+    "name": "Guy Scantlebury - Deal Hypnotherapy",
+    "phone": "01304 379423",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588085505/GS2-5_1_of_1_hruxbx.jpg",
+    "tags": [
+      "Hypnotherapy",
+      "Therapy"
+    ],
+    "website": "https://www.dealhypnotherapy.com/",
+    "email": "guy@dealhypnotherapy.com",
+    "description": "The key to any wellbeing, both mental and physical, is a sense of being in the present.  We all spend a lot of time, though, dwelling on the past and planning for things that are in the future.  I work with clients to help them with the thoughts and emotions that tie them to this thinking. To become their own inner problem solver and enjoy their lives in the moment. Visit my website for free material to help deal with COVID anxiety.",
+    "id": "04-25-guy-scantlebury-deal-hypnotherapy"
+  },
+  {
+    "safetyTips": "Please ask directly",
+    "name": "Michael Williams Photography",
+    "phone": "07980183443",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587802226/deal-photography_gcyshc.jpg",
+    "tags": [
+      "Photography",
+      "Gifts",
+      "Home Interiors"
+    ],
+    "website": "https://michaelwilliamse0cf.myportfolio.com/home",
+    "email": "michaelwilliams@tutanota.com",
+    "description": "Fine art landscape photography prints of Deal and surrounding area. View galleries and download price list and order information from the website. Free delivery every Saturday. ",
+    "id": "04-25-michael-williams-photography"
+  },
+  {
+    "safetyTips": "Please ask directly",
+    "name": "Pedaal Duwer  - #pd_auction",
+    "phone": "07927914195",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587801197/20200324_182612_resized_qiyu2y.jpg",
+    "tags": [
+      "Cycle",
+      "Bikes",
+      "Community"
+    ],
+    "website": "https://www.instagram.com/pedaalduwer/",
+    "email": "pedaalduwer@icloud.com",
+    "description": "Pedaal Duwer host a Community Vintage Bike Auction (#pd_auction) every weekend ONLINE @pedaalduwer. We welcome ALL offers to ensure we are selling bikes based on affordability and every sale helps sustain the wellbeing of Deal’s community (search #pd_smalldoses for info). All bikes are SERVICED - POLISHED - GUARANTEED - DELIVERED and we have a robust returns policy in place for your peace of mind.",
+    "id": "04-25-pedaal-duwer-pd_auction"
+  },
+  {
+    "safetyTips": "Please ask directly",
+    "name": "Pedaal Duwer - #pd_overhaul",
+    "phone": "07927914195",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587801297/20200410_143848_resized_p6t3cn.jpg",
+    "tags": [
+      "Cycle Repair",
+      "Bikes",
+      "Community"
+    ],
+    "website": "https://www.instagram.com/pedaalduwer/",
+    "email": "pedaalduwer@icloud.com",
+    "description": "Along side our Community Vintage Bike Auction, Pedaal Duwer are opening up a unique overhaul service aimed at ALL Deal residents thinking their bike might be past it. Our overhaul service is UNIQUE and AFFORDABLE as includes DEEP CLEAN - NECESSARY REPAIRS - FULL SERVICE - HIGH POLISH - COLLECTION AND DELIVERY. To ensure our customers can budget appropriately we are launching the #pd_overhaul at a fixed £50 (any necessary part will be quoted and supplied at cost).",
+    "id": "04-25-pedaal-duwer-pd_overhaul"
+  },
+  {
+    "safetyTips": "Contactless deliveries. Please enquire directly about other safety measures.",
+    "name": "All about da VAPE Ltd",
+    "phone": "01304 3 6 12 18",
+    "pdf": "",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588086162/keyworkers_mlm8b2.jpg",
+    "tags": [
+      "Vape",
+      "e-cigarettes"
+    ],
+    "website": "https://www.facebook.com/Allaboutdavape/",
+    "email": "allaboutdavape@gmail.com",
+    "description": "For all your usual vape supplies, you can order via our Facebook page or by phoning and posted to your door via Royal Mail for free.",
+    "id": "04-28-all-about-da-vape-ltd"
+  },
+  {
+    "safetyTips": "Contactless deliveries or collections Please enquire directly about other safety measures.",
+    "name": "Lillyroos Breakfasts",
+    "phone": "07872 441728",
+    "pdf": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588086604/breakfast_o9gf5f.jpg",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588086706/breakfast-lilyroo_ktpjnv.jpg",
+    "tags": [
+      "Food",
+      "Breakfast",
+      "Takeaway"
+    ],
+    "website": "https://www.facebook.com/lillyrooskent/?fref=gs&dti=2607836459447926&hc_location=group_dialog",
+    "email": "lillyrooskent@hotmail.com",
+    "description": "Lillyroos Breakfasts…….now available for delivery to the CT14 postcode between 8am and 12 midday.  We use only fresh produce from our local suppliers, and everything is made fresh to order.  You can choose to collect if you happen to be passing, using social distancing protocols from the entrance gate. Then walk it off through the local reserve .......  Coffees are made using freshly ground coffee beans with plant-based milk an option.  All payments will be contactless over the phone with a minimum order of £10 for deliveries.  Monday to Friday orders can be placed anytime. Saturday and Sunday orders need to be placed by 8pm the previous day prior to delivery date.",
+    "id": "04-28-lillyroos-breakfasts"
+  },
+  {
+    "safetyTips": "Contactless deliveries. Please enquire directly about other safety measures.",
+    "name": "Urban Chic",
+    "phone": " 01304 448940",
+    "pdf": "",
+    "address": "67 High Street Deal, Kent CT14 6EH",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588085928/image0_1_zcnulx.jpg",
+    "tags": [
+      "Clothing",
+      "Gifts",
+      "Homeware"
+    ],
+    "website": "https://www.facebook.com/urbanchicltd",
+    "email": "",
+    "description": "Urban Chic is a vintage, chic & modern boutique selling womenswear, accessories, jewellery & beauty products. To discover new products please visit our Facebook page or have a look in our shop window and call to order. ",
+    "id": "04-28-urban-chic"
+  },
+  {
+    "safetyTips": "Contactless deliveries or collections Please enquire directly about other safety measures.",
+    "name": "Big Pan Foods",
+    "phone": "07530153004",
+    "pdf": "",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588359073/image_djqlja.png",
+    "tags": [
+      "Takeaway",
+      "BBQ",
+      "Curries"
+    ],
+    "website": "",
+    "email": "bigpanfoods@hotmail.com",
+    "description": "Now delivering lockdown street food takeout including our signature paellas (vegan/chicken/seafood) and coming soon our famous South African curries/bunny chows and barbecue summer wraps. Send us a DM on socials (Instagram, Facebook or Twitter)/email/text to place orders for weekend delivery Sat/Sun 4-6pm.",
+    "id": "05-01-big-pan-foods"
+  },
+  {
+    "safetyTips": "Commissions for upholstery being taken by photo quotes and contactless pick up and drop off.",
+    "name": "Take a Seat Upholstery",
+    "phone": "07720724905",
+    "pdf": "",
+    "address": "Village community market",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588359438/image0_qmnwvu.jpg",
+    "tags": [
+      "Upholstery",
+      "Furniture",
+      "Service"
+    ],
+    "website": "https://m.facebook.com/takeaseatupholstery/",
+    "email": "",
+    "description": "Take a Seat ; selling and delivering one off pieces of upholstered furniture, hand made colourful cushions and fusion mineral paint ( furniture paint) Commissions for upholstery being taken by photo quotes and contactless pick up and drop off. Facebook and Insta @takeaseatupholstery ! Running a virtual Saturday market every week so new followers welcome! ",
+    "id": "05-01-take-a-seat-upholstery"
+  },
+  {
+    "name": "The Five Bells Ringwould",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588706458/5bells_dwrrsl.jpg",
+    "description": "The Five Bells Ringwould are offering takeaway meals on a Fridays, Saturdays & Sunday Roasts.  We offer most of our menu along with takeaway Pizzas. ",
+    "tags": [
+      "Roasts",
+      "Food",
+      "Takeaway"
+    ],
+    "website": "https://fivebells.touchtakeaway.net/menu",
+    "address": "Ringwould",
+    "safetyTips": "Please speak directly regarding safety measures",
+    "id": "05-05-the-five-bells-ringwould"
+  },
+  {
+    "safetyTips": "Please speak directly regarding safety concerns",
+    "name": "Authentique Wines",
+    "phone": "07860820561",
+    "address": "Deal Market",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588875552/IMG_0539_uyzgkq.jpg",
+    "tags": [
+      "Wine",
+      "Champagne",
+      "Gifts"
+    ],
+    "website": "https://www.facebook.com/authentiquewines/",
+    "email": "pascal.lang.pl@gmail.com",
+    "description": "Authentique Wines can normally be found in Deal Saturday Market and sell well chosen boutique and artisan wines from France which are often organic or biodynamic. They have a fantastic selection of wines for any occasion and stock a range of white, red and delicious summer rose wines as well as grand cru Champagne for special occasions.",
+    "id": "05-07-authentique-wines"
+  },
+  {
+    "description": "A wide range of gifts and magical items for local people from singing bowls to embroidered purses. I also offer online Deep Relaxation Meditation via my Facebook Page.",
+    "address": "Deal",
+    "website": "https://moragturner.com/",
+    "tags": [
+      "Gifts",
+      "Meditation",
+      "Healing"
+    ],
+    "email": "morag@moragturner.com",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588877640/C705A911-6162-4425-8206-F0DEB0FD5F14_kolh6u.jpg",
+    "safetyTips": "Please speak directly regarding safety concerns",
+    "name": "Morag Turner",
+    "id": "05-07-morag-turner"
+  },
+  {
+    "safetyTips": "Please contact directly re safety measures. Contactless collections",
+    "name": "Kent Recycle",
+    "phone": "07857856744",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588961143/Screenshot_20200503-182936_Facebook_kwxo6j.jpg",
+    "tags": [
+      "Waste removals",
+      "Garden",
+      "Clearance"
+    ],
+    "website": "https://www.kentrecycle.co.uk/",
+    "deliveryHours": [],
+    "file": "",
+    "email": "info@kentrecycle.co.uk",
+    "description": "Kent Recycle (and K.R. Removals) offer a fully insured and licensed service that specialises in household, garden, office and site clearance as well as house removals and collections/deliveries  Please call for a free no obligation quote.",
+    "id": "05-08-kent-recycle"
+  },
+  {
+    "safetyTips": "Please contact directly re safety measures. contactless deliveries.",
+    "name": "Walmer Fish & Chip Shop ",
+    "phone": "01304381712",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1588960412/2020-05-08_02.53.35_1_nqet5r.jpg",
+    "tags": [
+      "Takeaway",
+      "Food",
+      "Fish and Chips"
+    ],
+    "website": "https://www.walmerfishandchips.com/",
+    "deliveryHours": [],
+    "file": "",
+    "email": "",
+    "description": "Fish and Chips! We are offering a free delivery service to Deal, Walmer, Sholden and Kingsdown from 4-8pm (closed on Mondays). gluten-free and vegan options available. ",
+    "id": "05-08-walmer-fish-chip-shop"
+  },
+  {
+    "name": "Flutterby Me Jewellery",
+    "description": "Bespoke, handmade beaded jewellery, including necklaces, bracelets, rings, earrings, key rings, hand bag charms, wine glass charms, hair clips or anything else that can be made with beads. Ready made items available straight away or message me with any requests and I can make something to suit your needs. Based in Walmer, free delivery within Deal and a personal note can be included.",
+    "tags": [
+      "Jewellery",
+      "Gifts"
+    ],
+    "website": "https://www.facebook.com/flutterbymejewellery",
+    "safetyTips": "Please contact directly with any safety concerns",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1589228147/flutterby-jewellery_m3kpbb.jpg",
+    "email": "flutterbyowen@yahoo.co.uk",
+    "id": "05-11-flutterby-me-jewellery"
+  },
+  {
+    "name": "Taylor-Jones & Son",
+    "description": "Taylor-Jones & Son is a contemporary gallery on Deal High Street run by husband and wife team Richard and Sonja Taylor-Jones. We feature offer a broad range of art from local, national and international artists. We are happy to deliver free of charge in the Deal, Walter, St Margaret’s and Sandwich area. Please visit our website for more details.",
+    "tags": [
+      "Art",
+      "Contemporary Art",
+      "Gallery"
+    ],
+    "website": "http://www.taylorjonesandson.co.uk/",
+    "safetyTips": "Please contact directly with any safety concerns",
+    "address": "Deal High Street",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1589228831/_DSC6045_zc55gv.jpg",
+    "email": "",
+    "id": "05-11-taylor-jones-son"
+  },
+  {
+    "safetyTips": "Social distancing measures in place, video calls available",
+    "name": "Animal House Veterinary Services",
+    "phone": "01304 379533",
+    "address": "110 London Road Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1589375026/IMG_7993_vgxuma.jpg",
+    "tags": [
+      "Vet",
+      "Pets",
+      "Essential Services"
+    ],
+    "website": "",
+    "email": "",
+    "description": "We are a small animal well established Vets offering socially distant veterinary treatment, telephone consultations, home visits and delivery for medications and flea treatment. Opening hours: Monday - Friday: 8.30am - 6.00pm. Saturday: 8.30am - 12noon.",
+    "id": "05-13-animal-house-veterinary-services"
+  },
+  {
+    "safetyTips": "Free local contactless delivery",
+    "name": "Chris Howell",
+    "phone": "07730 470910",
+    "address": "25 Church Path, Deal, CT14 9TH",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1589379847/Screen_Shot_2020-05-13_at_15.23.34_q2dcl5.png",
+    "tags": [
+      "Art",
+      "Illustration",
+      "Screen Prints"
+    ],
+    "website": "https://www.chrishowell.co.uk/",
+    "email": "",
+    "description": "I make original mixed media artworks, digital illustrations and small edition screen prints from my studio in Deal. Commissions welcome.  Orders and contactless payments via my website.",
+    "id": "05-13-chris-howell"
+  },
+  {
+    "safetyTips": "Social distancing measures in place by way of booked time slots and collection only",
+    "name": "Deal Hoy",
+    "phone": "01304 363972",
+    "pdf": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1589374693/IMG_0239_uzb9z2.png",
+    "address": "16 Duke Street, Deal, Kent CT14 6DU",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1589374172/image0_3_un3avf.jpg",
+    "tags": [
+      "Pizza",
+      "Takeaway",
+      "Collection"
+    ],
+    "website": "https://www.facebook.com/DealHoy/",
+    "email": "info@thedealhoykent.co.uk",
+    "description": "We are offering our Italian Style Wood Fired Pizzas on a collection only basis on Friday and Saturday evening. Slots will be pre booked via phone or email with allocated collection times. There are also fabulous bundle deals with wine and beer, and a very special “Two Pizzas for £15” offer. ",
+    "id": "05-13-deal-hoy"
+  },
+  {
+    "safetyTips": "Online sessions available",
+    "name": "Headtogether Hypnotherapy",
+    "phone": "01304 369330",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1589372903/A236A196-DA6C-447C-9598-EC7844F352F3_1_105_c_kqyn4e.jpg",
+    "tags": [
+      "Hypnotherapy",
+      "Therapy"
+    ],
+    "website": "https://www.headtogether.net/",
+    "email": "z.thomelin@btinternet.com",
+    "description": "If you are feeling stressed, anxious or finding yourself too dependent on alcohol or food to get your through the lockdown, Hypnotherapy, NLP and CBT can help. I use these therapeutic techniques online with you to help you create change, backed up with studio quality recordings that you can keep to reinforce the work we do.  To find out more check out my website where you will find videos, books and blogs to inform and help you too.",
+    "id": "05-13-headtogether-hypnotherapy"
+  },
+  {
+    "safetyTips": "Collection only and contactless deliveries on Sunday",
+    "name": "Hog and Bean",
+    "phone": "",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1589373248/hog-bean_idvx4z.jpg",
+    "tags": [
+      "Takeaway",
+      "Collection",
+      "Food",
+      "Roast",
+      "Coffee"
+    ],
+    "website": "http://hellohogandbean.com/",
+    "email": "",
+    "description": "Hog & Bean eatery, micro roaster and coffee house. We are offering a takeaway service and also keep a stock of yeast, flour and pasta that we sell from the shop. We shall also be offering roast beef or roast pork or a bit of both for £6.95 on Sundays. Open from 10am til 2pm Tuesday, Thursday, Friday, Saturday, Sunday. ",
+    "id": "05-13-hog-and-bean"
+  },
+  {
+    "safetyTips": "collection only",
+    "name": "The Rose",
+    "phone": "01304389127 ",
+    "address": "91 High Street  Deal, Kent CT14 6ED",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1589377695/TheRoseMacCheese_whddpa.png",
+    "tags": [
+      "Takeaway",
+      "Food"
+    ],
+    "website": "https://www.therosedeal.com/",
+    "email": "hello@therosedeal.com",
+    "description": "The Rose is doing takeouts on Friday with all proceeds going to the Deal Food Bank. Suggested donation £9. Add a bottle of The Rose house red or white wine £10. Pick up from The Rose, this Friday 5-6pm (some local delivery available). Order in advance by Friday AM by email and check out their instagram @therosedeal to see what's cooking.",
+    "id": "05-13-the-rose"
+  },
+  {
+    "safetyTips": "Free local contactless delivery",
+    "name": "The Lane",
+    "phone": " 01304 448283",
+    "address": "15 south court Deal, Kent CT147",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1589708641/the-lane_z1nvy3.jpg",
+    "tags": [
+      "Takeaway",
+      "Burgers",
+      "Hotdogs"
+    ],
+    "website": "https://www.thelanedeal.co.uk/",
+    "email": "",
+    "description": "Need a treat during lockdown? Look no further!  We have adapted The LANE and are now offering Burgers & Hot Dogs take-out & delivery during these crazy times. Friday, Saturday and Sunday from 5pm-9pm for collection or local delivery (Deal area only). Please order via the local app (available to download on our website )",
+    "id": "05-17-the-lane"
+  },
+  {
+    "name": "Hut 55",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1590176800/55D4E8D5-36EE-4EC6-B4C3-005417502E04_1_jr9aw0.jpg",
+    "address": "Deal beach, Marine Road (next to the Sea Scouts), Deal, CT14 7DN",
+    "email": "hut55deal@gmail.com",
+    "website": "https://www.hut55.co.uk/",
+    "safetyTips": "Take away or pre-ordered collection only. Please observe social distancing queuing measures. No outdoor seating. Card payments only. ",
+    "description": "Hut 55 on Deal beach is now open for take away coffee and food (from Saturday 23rd May) and are offering a 'pre-order your picnic' service via our website. Book a picnic bag filled with your favourite Hut goodies from massive sausage rolls to homemade cake, and pick up from our picnic collection point. The deckchairs may have gone, but you are welcome to enjoy your treats on the beautiful beach. ",
+    "tags": [
+      "Coffee",
+      "Food",
+      "Picnic"
+    ],
+    "id": "05-22-hut-55-1"
+  },
+  {
+    "description": "Real dairy ice cream delivered to your door.  We deliver daily (Mon-Fri) to Deal and all areas within 10 miles of CT14 8JL. Minimum order is just 2 x 750ml with free delivery. An up to date list of flavours can be found on our website along with all details of how to order via email only.",
+    "name": "Solley's Ice Cream",
+    "tags": [
+      "Ice Cream",
+      "Dairy",
+      "Food"
+    ],
+    "address": "The Dairy, Church Road, Ripple, CT14 8JL",
+    "website": "https://www.solleysicecream.co.uk/",
+    "safetyTips": "Contactless online payment by card only. \"Knock\" & drop delivery",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1590177314/solleys_icecream_jeyzv8.jpg",
+    "email": "orders@solleysicecream.co.uk",
+    "id": "05-22-hut-55"
+  },
+  {
+    "safetyTips": "Via post.",
+    "name": "Showler & Showler ",
+    "phone": "01304 853850",
+    "address": "East Langdon",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1590177805/Elephant_-Pengun-_-Panda-Lifestyle_r0ezy3.jpg",
+    "tags": [
+      "Greetings Cards",
+      "Art Prints",
+      "Postcards"
+    ],
+    "website": "http://www.showlerandshowler.com",
+    "email": "",
+    "description": "At Showler & Showler we create and sell colourful prints, postcards and greetings cards to display on your walls & send to your friends.  We offer a service to send cards direct with a hand written message inside.   We offer contactless collection from East Langdon or free UK delivery using the code DEALDELIVERS.",
+    "id": "05-22-showler-showler"
+  },
+  {
+    "safetyTips": "Please speak directly regarding safety measures",
+    "name": "The Sicilian",
+    "phone": "07410635885",
+    "address": "2 Stanhope Road",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1591819217/the-scilian_xs9qpy.jpg",
+    "tags": [
+      "Pizza",
+      "Collection",
+      "Picnics",
+      "takeaway"
+    ],
+    "website": "https://www.facebook.com/thetruetasteofsicily/",
+    "deliveryHours": [
+      "Friday 10:00 - 21:00",
+      "Saturday 10:00 - 21:00",
+      "Sunday 10:00 - 16:00"
+    ],
+    "email": "thesicilian120562@gmail.com",
+    "description": "Your favourite Sicilian is back! Order your pasta or antipasti to be collected on Friday, Saturday or Sunday all day. Delicious pizzas made the Sicilian way will be available from 5pm - 9pm on Friday and Saturday evenings. Call to order here or on the mobile number below 01304389080",
+    "id": "06-10-the-sicilian"
+  },
+  {
+    "safetyTips": "Please ask directly if any concerns",
+    "name": "Coastal Crystals",
+    "phone": "0333 050 3849 ",
+    "address": "Kingsdown",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1592679550/Coastal_Crystals_photo_for_Deal_Delivers_ayermr.jpg",
+    "tags": [
+      "Crystals",
+      "Homeware",
+      "Gifts"
+    ],
+    "website": "https://coastalcrystals.co.uk",
+    "email": "coastalcrystalsuk@gmail.com",
+    "description": "We retail a large variety of crystals, gifts & homeware. We've been at lots of events over the past 4 years and have now also moved online.  We are based in Kingsdown, Kent and are offering free contactless delivery within 10 miles (on the same day where possible). Please take a look at our website to see our range of goodies!",
+    "id": "06-20-coastal-crystals"
+  },
+  {
+    "safetyTips": "Please ask directly if any concerns",
+    "name": "Wellingtons",
+    "phone": "07712534705",
+    "address": " 27 Beach Street Deal, Kent CT14 6HY",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1592679832/corned_beef_hash_kdzfjo.jpg",
+    "tags": [
+      "Food",
+      "Takeaway",
+      "Breakfast",
+      "Tapas"
+    ],
+    "website": "https://www.facebook.com/Wellingtons-2008495282785331/",
+    "email": "sharoncullen@live.co.uk",
+    "description": "daytime breakfast and lunches as well as waffles and ice-cream, which we are selling from our hatch at the front of the property three days a week, soon to be seven days a week. Tapas delivery on Saturday! (order by Thursday)",
+    "id": "06-20-wellingtons"
+  },
+  {
+    "safetyTips": "Food Hygiene Certs 1 and 2",
+    "name": "Caesars Pizza Kit",
+    "phone": "",
+    "address": "Deal",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1593194774/pizza-kits_b51irb.jpg",
+    "tags": [
+      "Pizza",
+      "Home Kits",
+      "Food"
+    ],
+    "website": "https://www.facebook.com/Caesars-Pizza-106159247791702",
+    "deliveryHours": [],
+    "email": "michaelwilliams@tutanota.com",
+    "description": "Hello pizza fans! Are you a budding pizzaiolo? Buy a Caesars Pizza kit and cook your own authentic Margarita pizza at home. Great activity to do with the kids or with friends Only the freshest, tastiest ingredients! Pizza kits include:  2no dough balls 2no portions of san marzano tomato sauce 2no portions fior de latte mozzerealla cheese Some grated grano padano cheese Olive oil Fresh basil Small amount of flour/semolina for stretching the dough. Order through our Facebook store by Friday 12pm for a Saturday Pizza night or by Saturday 12pm for a Sunday Pizza night!",
+    "id": "06-26-your-little-green-shop"
+  },
+  {
+    "safetyTips": "Contactless deliveries",
+    "name": "Deal Dining Club",
+    "phone": "01304 373569",
+    "address": "69 Middle Street Deal CT14 6NP",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1593520953/DEAL_SCENERY_2_bk98ms.jpg",
+    "tags": [
+      "3-Course Dinner",
+      "Takeaway",
+      "Food"
+    ],
+    "website": "https://thediningclubdeal.co.uk/our-menus/",
+    "deliveryHours": [],
+    "email": "thediningclubindeal@gmail.com",
+    "description": "The Dining Club in Deal is now open for a lovely 3 course dinner, packaged up and delivered to your door. - we have selected dates for the coming weeks and each menu is different.  You can eat it on the day of delivery / collection or it will keep for 2-3 days.  Cooking and storing details included on each menu.  Ranked in the top 5 on TripAdvisor, you can be sure that Scottie will deliver a truly memorable meal to enjoy at home.  The usual Membership is not essential but it does help you see the menus before anyone else as limited space is available.  Alternatively, you can find the menus on our website or updated on Facebook - Booking dates provided and made by email. If calling please leave a message and we will get back to you.",
+    "id": "06-30-simply-ink-toner"
   },
   {
     "safetyTips": "Deliveries will be left on your doorstep",

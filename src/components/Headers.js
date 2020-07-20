@@ -8,6 +8,17 @@ import { LocationSearch } from './Locations';
 import { Button } from './Buttons';
 import logo from '../logo.svg';
 
+const PayPalDonate = () => (
+  <StyledPayPalButton>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+      <input type="hidden" name="cmd" value="_s-xclick" />
+      <input type="hidden" name="hosted_button_id" value="7J3Z7UPVWH9E6" />
+      <input type="submit" name="submit" value="Donate" alt="Donate with PayPal button" />
+      <img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
+    </form>
+  </StyledPayPalButton>
+)
+
 export const Nav = () => {
   return (
     <StyledNav role="navigation">
@@ -17,6 +28,7 @@ export const Nav = () => {
       <Button path="https://www.facebook.com/groups/2607836459447926/">
         🙌 Follow on Facebook
       </Button>
+      <PayPalDonate />
     </StyledNav>
   )
 }
@@ -35,7 +47,7 @@ export const HeroHeader = ({ search }) => {
 
 const StyledHeroHeader = styled.header`
   display:block;
-  padding:var(--spacing-xxl) 0;
+  padding:calc(var(--spacing-xxl) * 1.25) 0;
   padding-bottom:calc(var(--spacing-lg) * 2.5);
   background-color:var(--base);
   background-size:cover;
@@ -51,6 +63,7 @@ const StyledHeroHeader = styled.header`
   }
 
   @media(min-width:48rem) {
+    padding:calc(var(--spacing-xxl) * 1) 0;
     padding-bottom:calc(var(--spacing-xl) * 1.5);
   }
 `
@@ -81,6 +94,34 @@ const StyledNav = styled.nav`
       margin:0 0 0 var(--spacing-xs);
     }
   }
+`
 
- 
+const StyledPayPalButton = styled.div`
+  input[type="submit"] {
+    display:block;
+    width:100%;
+    padding:0.85rem var(--spacing-xs);
+    font-size:0.85rem;
+    text-decoration:none;
+    background-color:var(--primary);
+    color:var(--surface);
+    border-radius:0.25rem; 
+    font-weight:700; 
+    border:none;
+    text-align:center;  
+    cursor:pointer;
+    transition:all .2s ease;    
+
+    @media(min-width:48rem) {
+      display:inline-block;
+      width:auto;
+      margin-left:1rem;
+    }
+
+    &:hover {
+      background-color:#fff;
+      color:var(--text-high);
+      transition:all .2s ease;
+    }
+  }
 `
