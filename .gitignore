@@ -1,8 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+<<<<<<< HEAD
 # api keys
 .env
 
+=======
+>>>>>>> 6a9fe1f469c22bc7d5cb2ae933d39f654869cec4
 # dependencies
 /node_modules
 /.pnp
