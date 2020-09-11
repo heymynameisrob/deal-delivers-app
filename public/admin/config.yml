@@ -1,0 +1,52 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+# display_url: https://netlify-cms-react-starter.netlify.com # This url will display in the top-right of the CMS
+media_folder: "public/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dealdelivers
+    api_key: 146853338836854
+    default_transformations:
+      - - fetch_format: auto
+          width: 500
+          quality: 80
+          crop: limit
+
+collections:
+  - name: "locations"
+    label: "Locations"
+    label_singular: "Location"
+    format: "json"
+    extension: "json"
+    delete: true
+    editor:
+      preview: false
+    folder: content/locations
+    slug: "{{month}}-{{day}}-{{name}}"
+    create: true # Allow users to create new documents in this collection
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Cover Image", name: "cover", widget: "image", multiple: false }
+      - { label: "Description", name: "description", widget: "string" }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        field: {label: "Tag", name: "tag", widget: "string"}      
+      - { label: "Address", name: "address", widget: "string" }
+      - { label: "Website", name: "website", widget: "string", required: false }
+      - { label: "Email", name: "email", widget: "string", required: false }
+      - { label: "Phone", name: "phone", widget: "string", required: false }
+      - { label: "PDF", name: "pdf", widget: "file", required: false, multiple: false }
+      - label: "Delivery Hours"
+        name: "deliveryHours"
+        widget: "list"
+        required: false
+        field: {label: "Day & Time", name: "dayTime", widget: "string"}    
+      - { label: "Safety Guides", name: "safetyTips", widget: "string" }
+        

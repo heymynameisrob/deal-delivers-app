@@ -1,0 +1,14 @@
+{
+  "description": "Real dairy ice cream delivered to your door.  We deliver daily (Mon-Fri) to Deal and all areas within 10 miles of CT14 8JL. Minimum order is just 2 x 750ml with free delivery. An up to date list of flavours can be found on our website along with all details of how to order via email only.",
+  "name": "Solley's Ice Cream",
+  "tags": [
+    "Ice Cream",
+    "Dairy",
+    "Food"
+  ],
+  "address": "The Dairy, Church Road, Ripple, CT14 8JL",
+  "website": "https://www.solleysicecream.co.uk/",
+  "safetyTips": "Contactless online payment by card only. \"Knock\" & drop delivery",
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1590177314/solleys_icecream_jeyzv8.jpg",
+  "email": "orders@solleysicecream.co.uk"
+}

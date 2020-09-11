@@ -1,0 +1,14 @@
+{
+  "name": "Chicken King Deal",
+  "description": "Chicken burgers, chips and nuggets. Takeaway on Deal highstreet is now delivering. Please use the website or call to order.",
+  "tags": [
+    "Takeaway",
+    "Food",
+    "Chicken Fastfood"
+  ],
+  "address": "Chicken King 2 South Street, Deal, CT14 7AW",
+  "website": "https://www.chickenkingdeal.co.uk/",
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587057429/Screen_Shot_2020-04-16_at_18.16.50_bkmiu3.png",
+  "safetyTips": "Contactless deliveries, please speak directly regarding safety",
+  "phone": "01304 239982"
+}

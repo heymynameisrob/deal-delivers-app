@@ -1,0 +1,13 @@
+{
+  "name": "Rook Butchers",
+  "description": "Deal Rooks the highstreet butchers are doing free delivery for Deal and surrounding areas, £15 minimum spend. Phone us directly and just tell us what you’d like and we will deliver to you on Wednesdays and Fridays straight to your doorstep",
+  "address": "Deal highstreet",
+  "phone": "01304 372085",
+  "safetyTips": "Contactless payment and deliveries",
+  "tags": [
+    "Butchers",
+    "Groceries",
+    "Food"
+  ],
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587661250/rook-butchers_gp7gbt.jpg"
+}

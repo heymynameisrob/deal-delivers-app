@@ -1,0 +1,18 @@
+{
+  "safetyTips": "Contactless Deliveries and Payments",
+  "name": "P Small and Sons Butchers",
+  "phone": "07793059406",
+  "pdf": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587662891/Small-butcher_auwnyz.pdf",
+  "address": "Deal Market",
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587662291/deal-market-butchers_zaypcs.jpg",
+  "tags": [
+    "Butcher",
+    "Eggs",
+    "Food"
+  ],
+  "deliveryHours": [
+    "Saturday 11:00 - 16:00"
+  ],
+  "email": "lukesmall1995@gmail.com",
+  "description": "The Deal Market butcher. Award winning sausages. Delicious meat and eggs available. Delivery to Deal and Walmer every Saturday. £10 minimum order. Menu attached for prices."
+}

@@ -1,0 +1,38 @@
+:root {
+  --bg:#f0f0f0;
+  --base:#0B132B;  
+  --base-light:rgba(11, 19, 43, 0.05);
+  --primary:#FF5630;
+  --secondary:#6554C0;
+  --surface:#fff;
+  
+  --text-high:var(--base);
+  --text-med:rgba(11, 19, 43, 0.8);
+  --text-low:rgba(11, 19, 43, 0.4);
+
+  --text-high-white:#FFF;
+  --text-med-white:rgba(255,255,255,0.8);
+  --text-low-white:rgba(255,255,255,0.5);
+
+  --font-stack:'Averta', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+
+  --spacing-xs:1rem;
+  --spacing-sm:1.5rem;
+  --spacing-md:2rem;
+  --spacing-lg:3rem;
+  --spacing-xl:6rem;
+  --spacing-xxl:10rem;
+}
+[data-theme="dark"]:root {
+  --bg:#000;    
+  --base:var(--bg);
+  --primary:#FF5630;
+  --secondary:#6554C0;
+  --surface: #222;
+  
+  --text-high:#fff;
+  --text-med:rgba(255,255,255, 0.8);
+  --text-low:rgba(255,255,255, 0.4);
+}
+
+/* Add your own theme by overwriting the variables */

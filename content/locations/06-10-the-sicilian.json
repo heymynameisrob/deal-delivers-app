@@ -1,0 +1,21 @@
+{
+  "safetyTips": "Please speak directly regarding safety measures",
+  "name": "The Sicilian",
+  "phone": "07410635885",
+  "address": "2 Stanhope Road",
+  "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1591819217/the-scilian_xs9qpy.jpg",
+  "tags": [
+    "Pizza",
+    "Collection",
+    "Picnics",
+    "takeaway"
+  ],
+  "website": "https://www.facebook.com/thetruetasteofsicily/",
+  "deliveryHours": [
+    "Friday 10:00 - 21:00",
+    "Saturday 10:00 - 21:00",
+    "Sunday 10:00 - 16:00"
+  ],
+  "email": "thesicilian120562@gmail.com",
+  "description": "Your favourite Sicilian is back! Order your pasta or antipasti to be collected on Friday, Saturday or Sunday all day. Delicious pizzas made the Sicilian way will be available from 5pm - 9pm on Friday and Saturday evenings. Call to order here or on the mobile number below 01304389080"
+}
