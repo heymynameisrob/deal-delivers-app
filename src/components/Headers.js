@@ -8,42 +8,18 @@ import { LocationSearch } from './Locations';
 import { Button } from './Buttons';
 import logo from '../logo.svg';
 
-<<<<<<< HEAD
 export const Nav = () => {
   return (
     <StyledNav role="navigation">
       <Button path="https://airtable.com/shr4mpWTPPijYTCJP">
-      <span role="img" aria-label="List">📍</span>&nbsp;&nbsp;List your location
+      <span role="img" aria-label="List">📍</span> List your location
       </Button>
       <Button path="https://www.facebook.com/groups/2607836459447926/">
-      <span role="img" aria-label="Email">🙌</span>&nbsp;&nbsp;Follow on Facebook
+      <span role="img" aria-label="Facebook">🙌</span> Follow on Facebook
       </Button>
       <Button path="https://www.instagram.com/dealdelivers/">
-      <span role="img" aria-label="Facebook">🙌</span>&nbsp;&nbsp;Follow on Instagram
+      <span role="img" aria-label="Instagram">🙌</span> Follow on Instagram
       </Button>
-=======
-const PayPalDonate = () => (
-  <StyledPayPalButton>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-      <input type="hidden" name="cmd" value="_s-xclick" />
-      <input type="hidden" name="hosted_button_id" value="7J3Z7UPVWH9E6" />
-      <input type="submit" name="submit" value="Donate" alt="Donate with PayPal button" />
-      <img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
-    </form>
-  </StyledPayPalButton>
-)
-
-export const Nav = () => {
-  return (
-    <StyledNav role="navigation">
-      <Button path={`mailto:${metadata.email}?subject=List Me`}>
-        📍 List your location
-      </Button>
-      <Button path="https://www.facebook.com/groups/2607836459447926/">
-        🙌 Follow on Facebook
-      </Button>
-      <PayPalDonate />
->>>>>>> 6a9fe1f469c22bc7d5cb2ae933d39f654869cec4
     </StyledNav>
   )
 }
@@ -53,11 +29,7 @@ export const HeroHeader = ({ search }) => {
     <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
       <Container>
         {metadata.hasLogo ? <SVG src={logo} style={{ margin: '1.5rem 0', maxWidth: '100%' }} /> : <h1>{metadata.name}</h1>}
-<<<<<<< HEAD
-        <p>Helping the high street with local restaurants, shops &amp; essential services that deliver direct to your door</p>
-=======
         <p>Helping the highstreet with local restaurants, shops & essential services that deliver direct to your door</p>
->>>>>>> 6a9fe1f469c22bc7d5cb2ae933d39f654869cec4
         <LocationSearch />
       </Container>
     </StyledHeroHeader >
@@ -113,8 +85,6 @@ const StyledNav = styled.nav`
       margin:0 0 0 var(--spacing-xs);
     }
   }
-<<<<<<< HEAD
-=======
 `
 
 const StyledPayPalButton = styled.div`
@@ -145,5 +115,4 @@ const StyledPayPalButton = styled.div`
       transition:all .2s ease;
     }
   }
->>>>>>> 6a9fe1f469c22bc7d5cb2ae933d39f654869cec4
 `

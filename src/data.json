@@ -563,30 +563,18 @@
     "safetyTips": "Please contact directly re safety measures. contactless deliveries.",
     "name": "Soul Chef Catering",
     "phone": "07871176466",
-<<<<<<< HEAD
     "address": "The Astor Theatre Stanhope Road CT14 6AB",
     "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1586201199/soul-chef-catering_v0pllm.jpg",
     "tags": [
       "Takeaway",
       "Food",
       "Jamaican"
-=======
-    "address": "Deal",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1586201199/soul-chef-catering_v0pllm.jpg",
-    "tags": [
-      "Takeaway",
-      "Food"
->>>>>>> 6a9fe1f469c22bc7d5cb2ae933d39f654869cec4
     ],
     "website": "https://www.facebook.com/Soulchefcatering",
     "deliveryHours": [],
     "file": "",
     "email": "chefdexterthomas@gmail.com",
-<<<<<<< HEAD
     "description": "Jamaican takeaway based at The Astor Theatre in Deal.  ‘Grab & Go’ lunch available Wednesday to Saturday 12:30-3pm  Main menu available:   Friday and Saturday evening 5-9pm   Sunday 12:30-4pm  Check our Facebook or Instagram for lunch and dinner menu.  We deliver right to your doorstep in Deal and the surrounding areas:  Dinner only - on Fridays and Saturdays (5-8pm)  Lunch only - on Sundays (2:30-4pm)  Pre order required for delivery.  Last orders for deliveries must be placed by 4pm on Friday/Saturday for evening delivery.  Last orders for Sunday lunch deliveries must be placed by 10pm on Saturday.  No pre order required for walk-ins. ",
-=======
-    "description": "Caribbean BBQ takeaway dinner. Vibrant menu inspired by local and seasonal produce. Your takeaway must be pre order by 11am the latest for free afternoon delivery or you can collect as pre agreed  from The Astor Theatre where we are based. Check our Facebook or Instagram for weekly menu and Community Wednesday's. ",
->>>>>>> 6a9fe1f469c22bc7d5cb2ae933d39f654869cec4
     "id": "04-06-soul-chef-catering"
   },
   {
@@ -913,28 +901,6 @@
     "id": "04-16-chicken-king-deal"
   },
   {
-<<<<<<< HEAD
-=======
-    "safetyTips": "Social distancing measures taken and please ask directly",
-    "name": "Cycle Tech Canterbury",
-    "phone": " 07768 570068",
-    "pdf": "",
-    "address": "Walmer",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1587235059/E9993A967EEE4EDB936BC96F8AD76525_ijeexu.jpg",
-    "tags": [
-      "Cycle",
-      "Repairs",
-      "Parts"
-    ],
-    "website": "http://www.cycletechcanterbury.co.uk/",
-    "deliveryHours": [],
-    "file": "",
-    "email": "enquiries@cycletechcanterbury.co.uk",
-    "description": "Based in Walmer, I offer bicycle servicing and repairs and hold a stock of parts and accessories and collect and return bikes from customer home or work addresses, at no charge.",
-    "id": "04-18-cycle-tech-canterbury"
-  },
-  {
->>>>>>> 6a9fe1f469c22bc7d5cb2ae933d39f654869cec4
     "safetyTips": "Please speak directly for safety measures.",
     "name": "Sholden Village Store",
     "phone": "01304 363732",
