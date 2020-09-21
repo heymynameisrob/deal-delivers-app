@@ -1181,6 +1181,103 @@
     "id": "2020-05-01-big-pan-foods"
   },
   {
+    "safetyTips": "Contactless deliveries",
+    "name": "The Black Pig Butchers",
+    "phone": "01304 379686",
+    "pdf": "",
+    "address": "1 St George's Passage, Deal, CT14 6TA",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585229072/black-pig-butchers_gx3qde.jpg",
+    "tags": [
+      "Groceries",
+      "Butcher"
+    ],
+    "website": "https://www.theblackpigbutchers.com/",
+    "deliveryHours": [],
+    "description": "For meat deliveries in Deal and the surrounding areas. Initially for the most vulnerable.  ",
+    "id": "2020-05-01-black-pig-butchers"
+  },
+  {
+    "safetyTips": "Completely contactless service!",
+    "name": "Bygga Bo",
+    "phone": "07496 993816",
+    "pdf": "",
+    "address": "Deal Market",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585228372/bygga-bo-deal-market_fapn63.jpg",
+    "tags": [
+      "Food",
+      "Groceries"
+    ],
+    "website": "Instagram: @byygabo ",
+    "deliveryHours": [
+      "Saturday 9am -11:30am"
+    ],
+    "description": "Delivering all of your favourite Scandi buns direct to your door! Every Saturday morning 09:00-11:30.",
+    "id": "2020-05-01-bygga-bo"
+  },
+  {
+    "safetyTips": "Currently offering collections, to be collected outside the shop but please do not bring families down. Contactless deliveries preferred.",
+    "name": "Fryer Tuck Deal",
+    "phone": "01304 364221",
+    "address": "49 College Road, Deal, CT14 6DD",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585247725/fish-chips_im8tqr.jpg",
+    "tags": [
+      "Fish and Chips",
+      "Takeaway",
+      "Food"
+    ],
+    "website": "https://www.facebook.com/FryerTuckDeal",
+    "deliveryHours": [
+      "Wednesday 17:00 - 21:00",
+      "Thursday 17:00 - 21:00",
+      "Friday 17:00 - 21:00",
+      "Saturday 17:00 - 21:00"
+    ],
+    "file": "",
+    "description": "Fish and Chips delivery only. 50% for NHS Staff.",
+    "id": "2020-05-01-fryer-tuck-deal"
+  },
+  {
+    "safetyTips": "Closed shop for staff safety. Contactless delivery only.",
+    "name": "Peckish Takeaway",
+    "phone": "01304 363736",
+    "address": "14A King Street, Deal, CT14 6HX",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585230540/peckish-delivery_acot5k.jpg",
+    "tags": [
+      "Takeaway",
+      "Food"
+    ],
+    "website": "https://www.peckish-deal.co.uk/",
+    "deliveryHours": [
+      "Monday 16:00 - 20:00",
+      "Tuesday 16:00 - 20:00",
+      "Wednesday 16:00 - 20:00",
+      "Thursday 16:00 - 20:00",
+      "Friday 16:00 - 20:00",
+      "Saturday 16:00 - 20:00",
+      "Sunday 16:00 - 20:00"
+    ],
+    "file": "",
+    "description": "Delicious rotisserie chicken and all the trimmings delivered to your door for free. Visit our website for the menu and to order or call ",
+    "id": "2020-05-01-peckish-takeaway"
+  },
+  {
+    "safetyTips": "Deliveries will be left on your doorstep",
+    "name": "Smugglers Records",
+    "phone": "",
+    "pdf": "",
+    "address": "9 King Street, Deal, CT14 6HX",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585226787/smugglers-records-deal_qc4kdw.jpg",
+    "tags": [
+      "Beer",
+      "Booze",
+      "Music"
+    ],
+    "website": "https://shop.smugglersrecords.com/",
+    "deliveryHours": [],
+    "description": "Independent record label, cafe and shop delivering vinyl records and beers. Visit their website for further information",
+    "id": "2020-05-01-smugglers-records"
+  },
+  {
     "safetyTips": "Commissions for upholstery being taken by photo quotes and contactless pick up and drop off.",
     "name": "Take a Seat Upholstery",
     "phone": "07720724905",
@@ -1433,21 +1530,6 @@
       "Food",
       "Picnic"
     ],
-    "id": "2020-05-22-hut-55-1"
-  },
-  {
-    "description": "Real dairy ice cream delivered to your door.  We deliver daily (Mon-Fri) to Deal and all areas within 10 miles of CT14 8JL. Minimum order is just 2 x 750ml with free delivery. An up to date list of flavours can be found on our website along with all details of how to order via email only.",
-    "name": "Solley's Ice Cream",
-    "tags": [
-      "Ice Cream",
-      "Dairy",
-      "Food"
-    ],
-    "address": "The Dairy, Church Road, Ripple, CT14 8JL",
-    "website": "https://www.solleysicecream.co.uk/",
-    "safetyTips": "Contactless online payment by card only. \"Knock\" & drop delivery",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1590177314/solleys_icecream_jeyzv8.jpg",
-    "email": "orders@solleysicecream.co.uk",
     "id": "2020-05-22-hut-55"
   },
   {
@@ -1465,6 +1547,21 @@
     "email": "",
     "description": "At Showler & Showler we create and sell colourful prints, postcards and greetings cards to display on your walls & send to your friends.  We offer a service to send cards direct with a hand written message inside.   We offer contactless collection from East Langdon or free UK delivery using the code DEALDELIVERS.",
     "id": "2020-05-22-showler-showler"
+  },
+  {
+    "description": "Real dairy ice cream delivered to your door.  We deliver daily (Mon-Fri) to Deal and all areas within 10 miles of CT14 8JL. Minimum order is just 2 x 750ml with free delivery. An up to date list of flavours can be found on our website along with all details of how to order via email only.",
+    "name": "Solley's Ice Cream",
+    "tags": [
+      "Ice Cream",
+      "Dairy",
+      "Food"
+    ],
+    "address": "The Dairy, Church Road, Ripple, CT14 8JL",
+    "website": "https://www.solleysicecream.co.uk/",
+    "safetyTips": "Contactless online payment by card only. \"Knock\" & drop delivery",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1590177314/solleys_icecream_jeyzv8.jpg",
+    "email": "orders@solleysicecream.co.uk",
+    "id": "2020-05-22-solleys-ice-cream"
   },
   {
     "safetyTips": "Please speak directly regarding safety measures",
@@ -1536,7 +1633,7 @@
     "deliveryHours": [],
     "email": "michaelwilliams@tutanota.com",
     "description": "Hello pizza fans! Are you a budding pizzaiolo? Buy a Caesars Pizza kit and cook your own authentic Margarita pizza at home. Great activity to do with the kids or with friends Only the freshest, tastiest ingredients! Pizza kits include:  2no dough balls 2no portions of san marzano tomato sauce 2no portions fior de latte mozzerealla cheese Some grated grano padano cheese Olive oil Fresh basil Small amount of flour/semolina for stretching the dough. Order through our Facebook store by Friday 12pm for a Saturday Pizza night or by Saturday 12pm for a Sunday Pizza night!",
-    "id": "2020-06-26-your-little-green-shop"
+    "id": "2020-06-26-caesars-pizza-kit"
   },
   {
     "safetyTips": "Contactless deliveries",
@@ -1553,103 +1650,6 @@
     "deliveryHours": [],
     "email": "thediningclubindeal@gmail.com",
     "description": "The Dining Club in Deal is now open for a lovely 3 course dinner, packaged up and delivered to your door. - we have selected dates for the coming weeks and each menu is different.  You can eat it on the day of delivery / collection or it will keep for 2-3 days.  Cooking and storing details included on each menu.  Ranked in the top 5 on TripAdvisor, you can be sure that Scottie will deliver a truly memorable meal to enjoy at home.  The usual Membership is not essential but it does help you see the menus before anyone else as limited space is available.  Alternatively, you can find the menus on our website or updated on Facebook - Booking dates provided and made by email. If calling please leave a message and we will get back to you.",
-    "id": "2020-06-30-simply-ink-toner"
-  },
-  {
-    "safetyTips": "Deliveries will be left on your doorstep",
-    "name": "Smugglers Records",
-    "phone": "",
-    "pdf": "",
-    "address": "9 King Street, Deal, CT14 6HX",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585226787/smugglers-records-deal_qc4kdw.jpg",
-    "tags": [
-      "Beer",
-      "Booze",
-      "Music"
-    ],
-    "website": "https://shop.smugglersrecords.com/",
-    "deliveryHours": [],
-    "description": "Independent record label, cafe and shop delivering vinyl records and beers. Visit their website for further information",
-    "id": "map-name-blend-2-phone-0115-555-555-pdf-https-res-cloudinary-com-deal-delivers-image-upload-v1584982869-pre-brand-pdf-address-snienton-market-nottingham-ng1-1dw-cover-https-res-cloudinary-com-deal-delivers-image-upload-v"
-  },
-  {
-    "safetyTips": "Completely contactless service!",
-    "name": "Bygga Bo",
-    "phone": "07496 993816",
-    "pdf": "",
-    "address": "Deal Market",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585228372/bygga-bo-deal-market_fapn63.jpg",
-    "tags": [
-      "Food",
-      "Groceries"
-    ],
-    "website": "Instagram: @byygabo ",
-    "deliveryHours": [
-      "Saturday 9am -11:30am"
-    ],
-    "description": "Delivering all of your favourite Scandi buns direct to your door! Every Saturday morning 09:00-11:30.",
-    "id": "map-name-blend-phone-0115-555-555-pdf-https-res-cloudinary-com-deal-delivers-image-upload-v1584982869-pre-brand-pdf-address-snienton-market-nottingham-ng1-1dw-cover-https-res-cloudinary-com-deal-delivers-image-upload-v15"
-  },
-  {
-    "safetyTips": "Contactless deliveries",
-    "name": "The Black Pig Butchers",
-    "phone": "01304 379686",
-    "pdf": "",
-    "address": "1 St George's Passage, Deal, CT14 6TA",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585229072/black-pig-butchers_gx3qde.jpg",
-    "tags": [
-      "Groceries",
-      "Butcher"
-    ],
-    "website": "https://www.theblackpigbutchers.com/",
-    "deliveryHours": [],
-    "description": "For meat deliveries in Deal and the surrounding areas. Initially for the most vulnerable.  ",
-    "id": "map-name-r-hough-phone-012314234234-pdf-https-res-cloudinary-com-deal-delivers-image-upload-v1584982869-pre-brand-pdf-address-72-sneinton-boulevard-cover-https-res-cloudinary-com-deal-delivers-image-upload-v1584982709-me_"
-  },
-  {
-    "safetyTips": "Closed shop for staff safety. Contactless delivery only.",
-    "name": "Peckish Takeaway",
-    "phone": "01304 363736",
-    "address": "14A King Street, Deal, CT14 6HX",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585230540/peckish-delivery_acot5k.jpg",
-    "tags": [
-      "Takeaway",
-      "Food"
-    ],
-    "website": "https://www.peckish-deal.co.uk/",
-    "deliveryHours": [
-      "Monday 16:00 - 20:00",
-      "Tuesday 16:00 - 20:00",
-      "Wednesday 16:00 - 20:00",
-      "Thursday 16:00 - 20:00",
-      "Friday 16:00 - 20:00",
-      "Saturday 16:00 - 20:00",
-      "Sunday 16:00 - 20:00"
-    ],
-    "file": "",
-    "description": "Delicious rotisserie chicken and all the trimmings delivered to your door for free. Visit our website for the menu and to order or call ",
-    "id": "roosters-piri"
-  },
-  {
-    "safetyTips": "Currently offering collections, to be collected outside the shop but please do not bring families down. Contactless deliveries preferred.",
-    "name": "Fryer Tuck Deal",
-    "phone": "01304 364221",
-    "address": "49 College Road, Deal, CT14 6DD",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/v1585247725/fish-chips_im8tqr.jpg",
-    "tags": [
-      "Fish and Chips",
-      "Takeaway",
-      "Food"
-    ],
-    "website": "https://www.facebook.com/FryerTuckDeal",
-    "deliveryHours": [
-      "Wednesday 17:00 - 21:00",
-      "Thursday 17:00 - 21:00",
-      "Friday 17:00 - 21:00",
-      "Saturday 17:00 - 21:00"
-    ],
-    "file": "",
-    "description": "Fish and Chips delivery only. 50% for NHS Staff.",
-    "id": "zap-thai"
+    "id": "2020-06-30-deal-dining-club"
   }
 ]
