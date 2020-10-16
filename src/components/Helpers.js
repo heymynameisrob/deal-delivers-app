@@ -44,15 +44,15 @@ const StyledLoadingSpinnerWrap = styled.div`
   width:${props => props.fixed ? '100%' : 'auto'};;
   height:${props => props.fixed ? '100%' : 'auto'};
   z-index:998;
-  background-color:${props => props.fixed ? 'rgba(255,255,255,0.2)' : 'transparent'};
+  background-color:${props => props.fixed ? 'var(--base)' : 'transparent'};
   display:flex;
   justify-content:center;
   align-items:center;  
 
 `;
 const StyledLoadingSpinner = styled.div`
-  --faded-color:var(--base-light);
-  --color:var(--base);  
+  --faded-color:rgba(255,255,255,0.5);
+  --color:#fff;  
   border-radius: 50%;
   width: ${props => props.size === 'large' ? '10rem' : '3rem'};
   height: ${props => props.size === 'large' ? '10rem' : '3rem'};

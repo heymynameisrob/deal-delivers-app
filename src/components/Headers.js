@@ -5,20 +5,21 @@ import metadata from '../metadata.json';
 
 import { Container } from './Layout';
 import { LocationSearch } from './Locations';
-import { Button } from './Buttons';
+import { Button, ButtonText } from './Buttons';
 import logo from '../logo.svg';
+import { Facebook, Instagram } from 'react-feather';
 
 export const Nav = () => {
   return (
     <StyledNav role="navigation">
-      <Button path="https://airtable.com/shr4mpWTPPijYTCJP">
-      <span role="img" aria-label="List">📍</span> List your location
-      </Button>
+      <ButtonText onDark={true} path="/">Home</ButtonText>
+      <ButtonText onDark={true} path="/blog">Blog</ButtonText>
+      <ButtonText onDark={true} path="https://airtable.com/shr4mpWTPPijYTCJP">List your location</ButtonText>
       <Button path="https://www.facebook.com/groups/2607836459447926/">
-      <span role="img" aria-label="Facebook">🙌</span> Follow on Facebook
+      <span role="img" aria-label="Facebook"><Facebook color={'#fff'} height={16} /></span>
       </Button>
       <Button path="https://www.instagram.com/dealdelivers/">
-      <span role="img" aria-label="Instagram">🙌</span> Follow on Instagram
+      <span role="img" aria-label="Instagram"><Instagram color={'#fff'} height={16} /></span>
       </Button>
     </StyledNav>
   )
@@ -33,6 +34,14 @@ export const HeroHeader = ({ search }) => {
         <LocationSearch />
       </Container>
     </StyledHeroHeader >
+  )
+}
+
+export const Header = ({children}) => {
+  return(
+    <StyledHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
+      {children}
+    </StyledHeader>
   )
 }
 
@@ -59,28 +68,62 @@ const StyledHeroHeader = styled.header`
   }
 `
 
+const StyledHeader = styled.header`
+  display:block;
+  padding:calc(var(--spacing-xxl) * 1.25) 0;
+  padding-bottom:calc(var(--spacing-lg) * 1.5);
+  background-color:var(--base);
+  background-size:cover;
+  background-position:top;
+  text-align:center;
+
+  h1 {
+    color:var(--text-high-white);
+    margin:0 0 1rem 0;
+  }
+  p {
+    color:var(--text-med-white);
+    max-width:35ch;
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+  @media(min-width:48rem) {
+    padding:calc(var(--spacing-xxl) * 1) 0;
+    padding-bottom:calc(var(--spacing-lg) * 1.5);
+  }
+`
+
 const StyledNav = styled.nav`
   position:absolute;
   top:0;
   left:0;
   width:100%;
-  display:block;
-  justify-content:space-between;
+  display:flex;
+  justify-content:center;
   align-items:center;
-  flex-flow:row nowrap;
+  flex-flow:row wrap;
   width:100%;  
   padding:var(--spacing-sm);
   
   a {
     width:100%;
+    text-align:center;
     margin:0 0 var(--spacing-xs) 0;
+  }
+  a:last-of-type,
+  a:nth-of-type(4) {    
+    width:auto;
   }
 
   @media(min-width:48rem) {
     display:flex;
     justify-content:flex-end;
 
-    a {
+    a,
+    a:last-of-type,
+    a:nth-of-type(4) {
+      
       width:auto;
       margin:0 0 0 var(--spacing-xs);
     }
