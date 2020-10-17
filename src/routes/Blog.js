@@ -1,11 +1,12 @@
 import React, {useState, useEffect} from 'react';
-import { useParams, Redirect } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import Markdown from "react-markdown";
 
 import {Nav, Header} from '../components/Headers';
 import { LoadingSpinner } from '../components/Helpers';
-import { Container, PostContainer } from '../components/Layout';
+import { Container, Grid, PostContainer } from '../components/Layout';
 import { useData } from '../context/DataProvider';
+import { BlogCard } from '../components/Cards';
 
 export const Blog = () => {
 
@@ -25,13 +26,21 @@ export const Blog = () => {
       <Header>
         <h1>Blog</h1>
       </Header>
-      <Container>
+      <Container style={{ marginTop: '-3rem', paddingBottom: '6rem' }}>
+       <Grid cols={3}>
         {blogPosts.map(post => {
-          const {title, id} = post;
-          return(
-            <a href={`/blog/${id}`}>{title}</a>
-          )
-        })}
+            const {title, date, id, cover} = post;
+            return(
+              <Link to={`/blog/${id}`} key={id} style={{ textDecoration: 'none'}}>
+                <BlogCard                
+                  title={title}
+                  date={date}
+                  cover={cover || "https://placehold.it/400x400"}
+                />
+              </Link>
+            )
+          })}
+       </Grid>
       </Container>
     </>
   )
@@ -58,6 +67,7 @@ export const Post = (props) => {
     <>
       <Nav />
       <Header>
+        <Link to="/blog" style={{ color: '#fff', marginBottom:'1.5rem' }}>← Go Back</Link>
         <h1>{title}</h1>
         <p>{date}</p>
       </Header>

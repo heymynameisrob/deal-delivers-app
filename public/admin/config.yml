@@ -48,5 +48,4 @@ collections:
         widget: "list"
         required: false
         field: {label: "Day & Time", name: "dayTime", widget: "string"}    
-      - { label: "Safety Guides", name: "safetyTips", widget: "string" }
-        
+      - { label: "Safety Guides", name: "safetyTips", widget: "string" }  

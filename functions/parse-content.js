@@ -106,7 +106,7 @@ const getPosts = () => {
               post = {
                   id: slugify(metadata.title),
                   title: metadata.title ? metadata.title : "No title given",
-                  author: metadata.author ? metadata.author : "No author given",
+                  cover: metadata.cover ? metadata.cover : "https://placehold.it/200x200",
                   date: metadata.date ? metadata.date : "No date given",
                   content: content ? content : "No content given",
               }

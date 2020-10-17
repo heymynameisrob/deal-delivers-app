@@ -1,27 +1,37 @@
-import React from 'react';
+import React, {useState} from 'react';
+import {Link, NavLink} from 'react-router-dom';
 import styled from 'styled-components';
 import SVG from 'react-inlinesvg';
 import metadata from '../metadata.json';
 
 import { Container } from './Layout';
 import { LocationSearch } from './Locations';
-import { Button, ButtonText } from './Buttons';
 import logo from '../logo.svg';
-import { Facebook, Instagram } from 'react-feather';
+import icon from '../logo-icon.svg';
+import { Facebook, Instagram, Menu } from 'react-feather';
+
 
 export const Nav = () => {
-  return (
-    <StyledNav role="navigation">
-      <ButtonText onDark={true} path="/">Home</ButtonText>
-      <ButtonText onDark={true} path="/blog">Blog</ButtonText>
-      <ButtonText onDark={true} path="https://airtable.com/shr4mpWTPPijYTCJP">List your location</ButtonText>
-      <Button path="https://www.facebook.com/groups/2607836459447926/">
-      <span role="img" aria-label="Facebook"><Facebook color={'#fff'} height={16} /></span>
-      </Button>
-      <Button path="https://www.instagram.com/dealdelivers/">
-      <span role="img" aria-label="Instagram"><Instagram color={'#fff'} height={16} /></span>
-      </Button>
+  return(
+    <StyledNav>              
+      <NavLinks />
     </StyledNav>
+  )
+}
+
+const NavLinks = () => {
+  const [navOpen,setNavOpen] = useState(false);
+  return(
+    <>
+      <Menu color={"#fff"} className="menu-toggle" onClick={() => setNavOpen(!navOpen)}/>
+      <StyledNavLinks isOpen={navOpen}>
+        <Link to={"/"}>Home</Link>
+        <Link to={"/blog"}>Blog</Link>
+        <a href="https://airtable.com/shr4mpWTPPijYTCJP">List Location</a>
+        <a href="https://www.facebook.com/groups/2607836459447926/"><Facebook color={"#fff"} height={16} /></a>
+        <a href="https://www.instagram.com/dealdelivers/"><Instagram color={"#fff"} height={16} /></a>
+      </StyledNavLinks>
+    </>
   )
 }
 
@@ -47,7 +57,7 @@ export const Header = ({children}) => {
 
 const StyledHeroHeader = styled.header`
   display:block;
-  padding:calc(var(--spacing-xxl) * 1.25) 0;
+  padding:var(--spacing-md) 0;
   padding-bottom:calc(var(--spacing-lg) * 2.5);
   background-color:var(--base);
   background-size:cover;
@@ -70,8 +80,8 @@ const StyledHeroHeader = styled.header`
 
 const StyledHeader = styled.header`
   display:block;
-  padding:calc(var(--spacing-xxl) * 1.25) 0;
-  padding-bottom:calc(var(--spacing-lg) * 1.5);
+  padding:var(--spacing-xl) 0;
+  padding-bottom:calc(var(--spacing-xl) * 1.25);
   background-color:var(--base);
   background-size:cover;
   background-position:top;
@@ -90,42 +100,66 @@ const StyledHeader = styled.header`
 
   @media(min-width:48rem) {
     padding:calc(var(--spacing-xxl) * 1) 0;
-    padding-bottom:calc(var(--spacing-lg) * 1.5);
+    padding-bottom:calc(var(--spacing-xl) * 1.5);
   }
 `
 
-const StyledNav = styled.nav`
-  position:absolute;
+const StyledNav = styled.nav`   
   top:0;
   left:0;
   width:100%;
+  display:flex;  
+  justify-content:center;
+  align-items:center;
+  flex-flow:column nowrap;  
+  width:100%;  
+  background-color:var(--base);
+  padding:var(--spacing-sm);
+
+  .menu-toggle {
+    display:block;
+    margin-left:auto;
+  }
+
+  @media(min-width:48rem) {  
+    position:absolute;  
+    display:flex;    
+    justify-content:flex-end;
+    flex-flow:wrap;  
+    background-color:transparent;
+
+    .menu-toggle {
+      display:none;
+    }
+  }
+`
+
+const StyledNavLinks = styled.div`
   display:flex;
   justify-content:center;
   align-items:center;
-  flex-flow:row wrap;
-  width:100%;  
-  padding:var(--spacing-sm);
-  
-  a {
-    width:100%;
-    text-align:center;
-    margin:0 0 var(--spacing-xs) 0;
-  }
-  a:last-of-type,
-  a:nth-of-type(4) {    
-    width:auto;
-  }
+  flex-flow:column nowrap;
+  max-height:${props => props.isOpen ? '100vh' : '0'};
+  opacity:${props => props.isOpen ? '1' : '0'};
+  overflow:${props => props.isOpen ? 'none' : 'hidden'};
+  transition:all .2s ease;
 
   @media(min-width:48rem) {
     display:flex;
     justify-content:flex-end;
+    flex-flow:wrap;
+    max-height:none;
+    opacity:1;    
+  }
 
-    a,
-    a:last-of-type,
-    a:nth-of-type(4) {
-      
-      width:auto;
-      margin:0 0 0 var(--spacing-xs);
+
+
+  a {
+    padding:1rem 0;
+    color:white;
+
+    @media(min-width:48rem) {
+      padding:0 1rem 0 0;
     }
   }
 `
