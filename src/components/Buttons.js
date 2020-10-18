@@ -14,14 +14,14 @@ export const ButtonPrimary = ({ children, ...rest }) => {
   return <StyledButtonPrimary {...rest}>{children}</StyledButtonPrimary>
 }
 
-export const ButtonText = ({ children, ...rest }) => {
-  return <StyledTextButton {...rest}>{children}</StyledTextButton>
+export const ButtonText = ({ path, children, ...rest }) => {
+  return <StyledTextButton href={path} {...rest}>{children}</StyledTextButton>
 }
 
 const StyledButton = styled.a`
   display:inline-block;
   padding:0.85rem var(--spacing-xs);
-  font-size:0.85rem;
+  font-size:1rem;
   text-decoration:none;
   background-color:rgba(255,255,255,0.1);
   color:var(--surface);
@@ -87,13 +87,13 @@ const StyledButtonSecondary = styled.button`
   }
 `
 
-const StyledTextButton = styled.button`
+const StyledTextButton = styled.a`
   display:inline-block;
   border:none;
   background-color:transparent;
-  color:var(--base);
+  color:${props => props.onDark ? '#fff' : 'var(--base)'};
   text-decoration:underline;
-  font-weight:700;
+  font-weight:500;
   font-size:1rem;
   font-family:var(--font-stack);
   margin:var(--spacing-xs) 0;

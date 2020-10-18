@@ -13,6 +13,10 @@ export const Container = ({ children, ...rest }) => {
   return <section className="l-container"  {...rest}>{children}</section>
 }
 
+export const PostContainer = ({ children, ...rest }) => {
+  return <StyledPostContainer  {...rest}>{children}</StyledPostContainer>
+}
+
 const StyledGrid = styled.ul`
   display:block;
   --grid-tc:${props => props.cols || 3};
@@ -27,4 +31,13 @@ const StyledGridCell = styled.li`
   display:block;
   list-style-type:none;
   margin-bottom:var(--spacing-sm);
+`
+
+const StyledPostContainer = styled.section`
+  display:block;
+  max-width:56ch;
+  margin:0 auto;
+  padding-left:1.5rem;
+  padding-right:1.5rem;
+  padding-top:var(--spacing-lg);
 `

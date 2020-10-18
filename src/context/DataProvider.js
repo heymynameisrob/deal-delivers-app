@@ -5,6 +5,7 @@ export const DataContext = React.createContext();
 
 const DataProvider = (props) => {
   const [locations, setLocations] = useState([]);
+  const [blogPosts, setBlogPosts] = useState(null);
   const [modalContent, setModalContent] = useState({});
 
   const postModalContent = (data) => {
@@ -33,12 +34,24 @@ const DataProvider = (props) => {
       setLocations(sorted);
     })
     .catch(err => console.log(err));
+  }  
+
+  const getPosts = () => {
+    import('../posts.json')    
+    .then(data => {      
+      const array = data.default.slice(0)    
+      setBlogPosts(array);      
+      console.log('All posts', array)
+    })
+    .catch(err => console.log(err));
   }
+
 
   return (
     <DataContext.Provider value={{
       locations, modalContent,
-      getLocations, postModalContent, getModalContent
+      getLocations, postModalContent, getModalContent,
+      getPosts, blogPosts
     }} {...props} />
   )
 }

@@ -95,6 +95,20 @@ export const LocationCard = ({ details, children, ...rest }) => {
   )
 }
 
+export const BlogCard = ({cover, title, date, content}) => {
+  return(
+    <StyledCard>
+      <StyledCardImageWrap>
+        <img src={cover} alt={title} />
+      </StyledCardImageWrap>
+      <StyledCardBody>
+        <h3>{title}</h3>
+        <p>{date}</p>        
+      </StyledCardBody>
+    </StyledCard>
+  )
+}
+
 const StyledCard = styled.article`
   display:flex;
   justify-content:${props => props.align || "flex-start"};
@@ -103,11 +117,11 @@ const StyledCard = styled.article`
   background-color:${props => props.base || "var(--surface)"};
   border-radius:0.5rem;
   box-shadow:0 1rem 2rem rgba(0,0,0,0.08);  
-  height:100%;
+  height:100%;  
 
   > * {
     width:100%;
-    margin-bottom:var(--spacing-sm);
+    margin-bottom:var(--spacing-sm);    
   }
 `;
 const StyledCardImageWrap = styled.picture`
