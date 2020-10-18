@@ -1,7 +1,35 @@
 import React, { useRef, useEffect, useState } from 'react';
+import MailchimpSubscribe from 'react-mailchimp-subscribe';
 import styled from 'styled-components';
 import { toast } from 'react-toastify';
+
 import { ButtonPrimary } from './Buttons';
+import { CalloutCard } from './Cards';
+
+const url = 'https://dealdelivers.us19.list-manage.com/subscribe/post?u=0a023d66dca681efd881a0433&amp;id=b404300e61';
+
+export const MailchimpForm = () => (
+  <CalloutCard id="stay-informed">
+    <h2>Stay informed</h2>
+    <p>Sign up for occasional emails from Deal Delivers</p>
+    <Mailchimp />
+  </CalloutCard>
+)
+
+const Mailchimp = (url) => {
+  return(
+    <MailchimpSubscribe
+      url={url}
+      render={({ subscribe, status, message }) => (
+        <CustomForm
+          status={status}
+          message={message}
+          onValidated={formData => subscribe(formData)}
+        />
+      )}
+    />
+  )
+}
 
 export const CustomForm = ({ status, message, onValidated }) => {
   const email = useRef();

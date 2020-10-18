@@ -5,7 +5,7 @@ export const DataContext = React.createContext();
 
 const DataProvider = (props) => {
   const [locations, setLocations] = useState([]);
-  const [blogPosts, setBlogPosts] = useState([]);
+  const [blogPosts, setBlogPosts] = useState(null);
   const [modalContent, setModalContent] = useState({});
 
   const postModalContent = (data) => {

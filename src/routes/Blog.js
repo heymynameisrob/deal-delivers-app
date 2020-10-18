@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from 'react';
+import styled from 'styled-components';
 import { useParams, Link } from 'react-router-dom';
 import Markdown from "react-markdown";
 
@@ -7,16 +8,16 @@ import { LoadingSpinner } from '../components/Helpers';
 import { Container, Grid, PostContainer } from '../components/Layout';
 import { useData } from '../context/DataProvider';
 import { BlogCard } from '../components/Cards';
+import {CustomForm, MailchimpForm} from '../components/Forms';
 
 export const Blog = () => {
-
   const {getPosts, blogPosts} = useData();
 
   useEffect(() => {
     getPosts();
   }, []);
 
-  if (blogPosts.length < 1) {
+  if (blogPosts == null) {
     return <LoadingSpinner fixed={true} />
   }
 
@@ -27,24 +28,37 @@ export const Blog = () => {
         <h1>Blog</h1>
       </Header>
       <Container style={{ marginTop: '-3rem', paddingBottom: '6rem' }}>
-       <Grid cols={3}>
-        {blogPosts.map(post => {
-            const {title, date, id, cover} = post;
-            return(
-              <Link to={`/blog/${id}`} key={id} style={{ textDecoration: 'none'}}>
-                <BlogCard                
-                  title={title}
-                  date={date}
-                  cover={cover || "https://placehold.it/400x400"}
-                />
-              </Link>
-            )
-          })}
-       </Grid>
+       {blogPosts.length > 0 ? <PostsGrid posts={blogPosts} /> : <NoPosts />}       
       </Container>
     </>
   )
 }
+
+const NoPosts = () => (
+  <StyledEmptyState>
+    <div>
+      <p>📝</p>
+      <p>No blog posts...yet</p>
+    </div>
+  </StyledEmptyState>
+)
+
+const PostsGrid = ({posts}) => (
+  <Grid cols={3}>
+    {posts.map(post => {
+        const {title, date, id, cover} = post;
+        return(
+          <Link to={`/blog/${id}`} key={id} style={{ textDecoration: 'none'}}>
+            <BlogCard                
+              title={title}
+              date={date}
+              cover={cover || "https://placehold.it/400x400"}
+            />
+          </Link>
+        )
+      })}
+    </Grid>
+)
 
 export const Post = (props) => {
   const {id} = useParams();  
@@ -56,7 +70,7 @@ export const Post = (props) => {
     getPosts();
   }, []);
 
-  if (blogPosts.length < 1) {
+  if (blogPosts === null) {
     return <LoadingSpinner fixed={true} />
   }
 
@@ -72,8 +86,18 @@ export const Post = (props) => {
         <p>{date}</p>
       </Header>
      <PostContainer>
-      <Markdown source={content} escapeHtml={false} />
+      <Markdown source={content} escapeHtml={false} />      
      </PostContainer>
+     <Container style={{paddingTop: '3rem', paddingBottom: '6rem'}}>
+      <MailchimpForm />
+     </Container>
     </>
   )
 }
+
+const StyledEmptyState = styled.div`
+  display:grid;
+  place-items:center;
+  text-align:center;
+  height:50vh;
+`
