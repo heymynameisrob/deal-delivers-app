@@ -60,5 +60,6 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields:
     - { label: "Title", name: "title", widget: "string", required: true }
+    - { label: "Date", name: "date", widget: "date", date_format: true, required: true }
     - { label: "Cover Image", name: "cover", widget: "image", multiple: false }
     - { label: "Body", name: "body", widget: "markdown" }
