@@ -59,4 +59,4 @@ collections:
     fields:
     - { label: "Title", name: "title", widget: "string", required: true }
     - { label: "Cover Image", name: "cover", widget: "image", multiple: false }
-    - { label: "Body", name: "content", widget: "markdown" }
+    - { label: "Body", name: "body", widget: "markdown" }
