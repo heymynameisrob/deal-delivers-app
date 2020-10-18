@@ -49,3 +49,14 @@ collections:
         required: false
         field: {label: "Day & Time", name: "dayTime", widget: "string"}    
       - { label: "Safety Guides", name: "safetyTips", widget: "string" }  
+  - name: "posts"
+    label: "Blog Posts"
+    label_singular: "Blog Post"
+    delete: true
+    folder: "content/posts"
+    slug: "{{name}}"
+    create: true # Allow users to create new documents in this collection
+    fields:
+    - { label: "Title", name: "title", widget: "string", required: true }
+    - { label: "Cover Image", name: "cover", widget: "image", multiple: false }
+    - { label: "Body", name: "content", widget: "markdown" }
