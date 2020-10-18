@@ -59,4 +59,8 @@ collections:
     fields:
     - { label: "Title", name: "title", widget: "string", required: true }
     - { label: "Cover Image", name: "cover", widget: "image", multiple: false }
+<<<<<<< HEAD
     - { label: "Body", name: "body", widget: "markdown" }
+=======
+    - { label: "Body", name: "body", widget: "markdown" }
+>>>>>>> 8e9ea9694178e02480fbabb7929ef3f8bd2330cd
