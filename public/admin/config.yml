@@ -56,7 +56,7 @@ collections:
     editor:
       preview: false
     folder: "content/posts"    
-    slug: "{{name}}"
+    slug: "{{title}}"
     create: true # Allow users to create new documents in this collection
     fields:
     - { label: "Title", name: "title", widget: "string", required: true }
