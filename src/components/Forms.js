@@ -12,11 +12,11 @@ export const MailchimpForm = () => (
   <CalloutCard id="stay-informed">
     <h2>Stay informed</h2>
     <p>Sign up for occasional emails from Deal Delivers</p>
-    <Mailchimp />
+    <Mailchimp url={url} />
   </CalloutCard>
 )
 
-const Mailchimp = (url) => {
+const Mailchimp = ({url}) => {
   return(
     <MailchimpSubscribe
       url={url}

@@ -39,9 +39,12 @@ const DataProvider = (props) => {
   const getPosts = () => {
     import('../posts.json')    
     .then(data => {      
-      const array = data.default.slice(0)    
-      setBlogPosts(array);      
-      console.log('All posts', array)
+      const array = data.default.slice(0);
+      const sorted = array.sort((a,b) => {
+        return new Date(b.date) - new Date(a.date);
+      });    
+      setBlogPosts(sorted);      
+      console.log('All posts', sorted)
     })
     .catch(err => console.log(err));
   }
