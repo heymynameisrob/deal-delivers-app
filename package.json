@@ -26,13 +26,12 @@
   },
   "scripts": {
     "start": "npm-run-all prepare-content -p start:content start:app",
-    "build": "npm-run-all -s prepare-content build:app",
+    "build": "npm-run-all -s parse-content build:app",
     "start:app": "react-scripts start",
     "start:content": "chokidar 'content/**/**' -c 'npm run prepare-content'",
     "build:app": "react-scripts build",
     "build:react-snapshot": "react-snapshot",
-    "parse-content": "node ./functions/parse-content.js",
-    "prepare-content": "npm-run-all -s parse-content",
+    "parse-content": "node ./functions/parse-content.js",    
     "test": "react-scripts test"
   },
   "eslintConfig": {
