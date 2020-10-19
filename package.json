@@ -25,10 +25,10 @@
     "universal-cookie": "^4.0.3"
   },
   "scripts": {
-    "start": "npm-run-all prepare-content -p start:content start:app",
+    "start": "npm-run-all parse-content -p start:content start:app",
     "build": "npm-run-all -s parse-content build:app",
     "start:app": "react-scripts start",
-    "start:content": "chokidar 'content/**/**' -c 'npm run prepare-content'",
+    "start:content": "chokidar 'content/**/**' -c 'npm run parse-content'",
     "build:app": "react-scripts build",
     "build:react-snapshot": "react-snapshot",
     "parse-content": "node ./functions/parse-content.js",    
