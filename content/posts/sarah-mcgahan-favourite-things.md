@@ -5,7 +5,7 @@ cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,
 ---
 The first in our weekly series is talented therapist Sarah Jane McGahan at ***[Daisy Green The Holistic Shed](https://www.facebook.com/sarahmcgahan.daisygreen)*,** a rather unique spa run from a peaceful shed in Sarah’s back garden. Sarah’s pampering products and home ‘treat’ment kits helped kept us sane(ish!) during lockdown and she has rave 5* reviews on Facebook.
 
-![](https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1603123131/daisy-green_nhxata.jpg "Sarah Jane and her handmade organic lavender and raw coconut oil salt scrub")
+![deal delivers daisy green holistic shed](https://res.cloudinary.com/dealdelivers/image/upload/c_scale,w_500/c_limit,f_auto,q_80,w_500/v1603123131/daisy-green_nhxata.jpg "Sarah Jane and her handmade organic lavender and raw coconut oil salt scrub")
 
 Sarah is a holistic therapist, born and bred in Deal. She is married with two children, one aged 22 living independently and a 17 year old still at home busy studying for A levels - oh, and tortoise Terence Trent (after singer D’Arby, cross our hearts).
 
@@ -48,7 +48,7 @@ Sandwich Bay is beautiful, we sometimes take our campervan during the day and ma
 The owners at [Urban Chic](http://www.urbanchicltd.co.uk/), Claire and Dawn are so friendly. I love their clothes, my most recent purchase being a T Shirt and I can always find little gifts for people.
 
 #### \
-7. Local food
+7. Local Food
 
 [Jill Martin of Town Kitchen](https://www.facebook.com/jill.martin.1460) has a stall at the Saturday Market where I am always tempted by her delicious sausage rolls and curries. I was also introduced to the scrummy [Hotsie Totsie cakes](https://www.facebook.com/hotsytotsycb) and bakes by Jill’s daughter Jessica Martin through the Deal Delivers page and have become a regular customer. Can I recommend her gin and tonic cake? Mmmm. I went to a ‘Ladies at Lunch’ event recently where Jill was the guest speaker and her daughter Jessica made the delicious dessert. To attend the event advertised online, you have to get in quick for the few spaces round Jill’s kitchen table… which is also in her garden shed. There’s clearly a theme!
 
