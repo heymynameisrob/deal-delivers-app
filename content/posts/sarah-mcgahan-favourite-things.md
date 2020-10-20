@@ -1,5 +1,5 @@
 ---
-title: "Meet: Sarah Jane from Daisy Green The Holistic Shed"
+title: Meet Sarah Jane from Daisy Green The Holistic Shed
 date: 2020-10-18T17:08:20.844Z
 cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1603123079/diasy-green-holistic-shed_ijxsld.jpg
 ---
