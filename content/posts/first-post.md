@@ -1,5 +1,5 @@
 ---
-title: 5 Socially Distanced ideas for Halloween
+title: 5 Socially Distanced Ideas for Halloween
 author: Dave Jones
 date: 2020-10-19T23:00:00.000Z
 cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1603198212/halloween_tzgyxk.jpg
