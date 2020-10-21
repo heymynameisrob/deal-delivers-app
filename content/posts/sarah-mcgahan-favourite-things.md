@@ -1,7 +1,7 @@
 ---
 title: Meet Sarah Jane from Daisy Green The Holistic Shed
 date: 2020-10-18T17:08:20.844Z
-cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1603123079/diasy-green-holistic-shed_ijxsld.jpg
+cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1603292558/IMG_1499_ge6apb.jpg
 ---
 The first in our weekly series is talented therapist Sarah Jane McGahan at ***[Daisy Green The Holistic Shed](https://www.facebook.com/sarahmcgahan.daisygreen)*,** a rather unique spa run from a peaceful shed in Sarah’s back garden. Sarah’s pampering products and home ‘treat’ment kits helped kept us sane(ish!) during lockdown and she has rave 5* reviews on Facebook.
 
