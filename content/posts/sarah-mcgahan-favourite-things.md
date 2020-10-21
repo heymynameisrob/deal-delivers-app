@@ -29,15 +29,11 @@ There is so much community spirit here in Deal, in a crisis like we have just ha
 
 #### 3. Kingsdown Woods
 
-With the seafront one side, in just a couple of minutes’ walk you can be in the woods, through the fields or along the cliffs exploring all the wonderful nature of the area, butterflies, bees, flowers…
-
-I particularly love seeing and smelling the carpet of bluebells in Kingsdown Woods in the spring and snowdrops in the winter.
+With the seafront one side, in just a couple of minutes’ walk you can be in the woods, through the fields or along the cliffs exploring all the wonderful nature of the area, butterflies, bees, flowers… I particularly love seeing and smelling the carpet of bluebells in Kingsdown Woods in the spring and snowdrops in the winter.
 
 #### 4. St Margaret’s and Sandwich Bays
 
-A walk along the cliffs to the cosy beach at St Margaret’s is lovely, with a bonus it’s not so well known, so less busy or crowded. You can have a well-earned drink at **[The Coastguard](https://thecoastguard.co.uk/)** and I sometimes walk on to Dover.
-
-Sandwich Bay is beautiful, we sometimes take our campervan during the day and make our lunch in our little kitchen, maybe a nice chicken salad with meat, breads and dips from **[Deal’s wonderful Saturday market](https://www.facebook.com/DealTownMarket)**. I particularly appreciate the greengrocers and good quality meat from the butcher there. I’d also recommend a day trip to Rye, especially the nature reserve where we saw a family of seals recently.
+A walk along the cliffs to the cosy beach at St Margaret’s is lovely, with a bonus it’s not so well known, so less busy or crowded. You can have a well-earned drink at **[The Coastguard](https://thecoastguard.co.uk/)** and I sometimes walk on to Dover. Sandwich Bay is beautiful, we sometimes take our campervan during the day and make our lunch in our little kitchen, maybe a nice chicken salad with meat, breads and dips from **[Deal’s wonderful Saturday market](https://www.facebook.com/DealTownMarket)**. I particularly appreciate the greengrocers and good quality meat from the butcher there. I’d also recommend a day trip to Rye, especially the nature reserve where we saw a family of seals recently.
 
 #### 5. Top restaurants
 
