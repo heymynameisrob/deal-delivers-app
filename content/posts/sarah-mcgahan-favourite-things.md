@@ -43,7 +43,8 @@ Sandwich Bay is beautiful, we sometimes take our campervan during the day and ma
 
 **[The Thai Restaurant](https://www.bangkokpavilion.co.uk/)** on High Street and [Beach Street Table 81](https://81beachstreet.co.uk/) are our favourites so far. Located opposite The Royal Hotel, I think 81’s burgers and sea bass are particularly good, really lovely food. Two years ago, I travelled Thailand for four weeks and fell in love with the spiciness of Thai food. A Pad Thai or Red Thai curry with Udon noodles on the High Street brings those magical memories back…
 
-#### 6. Urban Chic
+#### \
+6. Urban Chic
 
 The owners at [Urban Chic](http://www.urbanchicltd.co.uk/), Claire and Dawn are so friendly. I love their clothes, my most recent purchase being a T Shirt and I can always find little gifts for people.
 
