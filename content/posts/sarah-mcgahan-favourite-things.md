@@ -5,7 +5,7 @@ cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,
 ---
 The first in our weekly series is talented therapist Sarah Jane McGahan at ***[Daisy Green The Holistic Shed](https://www.facebook.com/sarahmcgahan.daisygreen)*,** a rather unique spa run from a peaceful shed in Sarah’s back garden. Sarah’s pampering products and home ‘treat’ment kits helped kept us sane(ish!) during lockdown and she has rave 5* reviews on Facebook.
 
-![deal delivers daisy green holistic shed](https://res.cloudinary.com/dealdelivers/image/upload/c_scale,w_500/c_limit,f_auto,q_80,w_500/v1603123131/daisy-green_nhxata.jpg "Sarah Jane and her handmade organic lavender and raw coconut oil salt scrub")
+![deal delivers daisy green holistic shed](https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1603292558/IMG_1498_vn19fy.jpg)
 
 Sarah is a holistic therapist, born and bred in Deal. She is married with two children, one aged 22 living independently and a 17 year old still at home busy studying for A levels - oh, and tortoise Terence Trent (after singer D’Arby, cross our hearts).
 
