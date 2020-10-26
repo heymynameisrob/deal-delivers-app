@@ -29,9 +29,13 @@ cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,
 
 **The Goose on the Green** is offering free meals to kids. Check out their menu on **[Facebook here](https://www.facebook.com/GooseontheGreenCafe)** . Closed on Wednesdays.
 
+**Betteshanger Welfare Football Club** in Cavell Square will be open FRI, SAT & SUN providing free meals to all children, whether they play football or not just visit the club cafe
+
+
+
 ##### And visit:
 
-##### Kent County Council are offering £15 holiday food vouchers, [apply here](https://www.kent.gov.uk/education-and-children/schools/free-school-meals)  
+##### Kent County Council are offering £15 holiday food vouchers, [apply here](https://www.kent.gov.uk/education-and-children/schools/free-school-meals)
 
 ##### Deal Area Food Bank [ here](https://dealarea.foodbank.org.uk/)
 
