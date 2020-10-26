@@ -5,7 +5,7 @@ cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,
 ---
 #### These are the brilliant businesses that are pulling together and helping with free school meals this half term. Get in touch with the restaurants below if you need help, no questions asked.
 
-*If you are a food related business and keen to help over Christmas holidays and future half terms please email hello @ dealdelivers.com with the subject 'School Meals'.*
+**Please note** this is not a definitive list, please get in touch if you want to be added. *If you are a food related business and keen to help over Christmas holidays and future half terms please email hello @ dealdelivers.com with the subject 'School Meals'.*
 
 **Cin Cin Bar** Staff have volunteered their time and are offering breakfast club from Monday 26th - Friday 30th October 8am - 11am. Book (no questions asked) Visit their **[Facebook page](https://www.facebook.com/cincinbarandbistro)**
 
