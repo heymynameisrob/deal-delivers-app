@@ -29,11 +29,10 @@ cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,
 
 **The Goose on the Green** is offering free meals to kids. Check out their menu on **[Facebook here](https://www.facebook.com/GooseontheGreenCafe)** . Closed on Wednesdays.
 
-##### \
-And visit:
+##### And visit:
 
-##### **Kent County Council** are offering £15 holiday food vouchers, [apply here ](https://www.kent.gov.uk/education-and-children/schools/free-school-meals)\
-\
-**Deal Area Food Bank** [ here ](https://dealarea.foodbank.org.uk/)
+##### Kent County Council are offering £15 holiday food vouchers, [apply here](https://www.kent.gov.uk/education-and-children/schools/free-school-meals)  
 
-##### **United Families Deal**  [here](https://www.facebook.com/unitedfamilyuk)
+##### Deal Area Food Bank [ here](https://dealarea.foodbank.org.uk/)
+
+**United Families Deal [ here](https://www.facebook.com/unitedfamilyuk)**
