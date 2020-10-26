@@ -1,5 +1,5 @@
 ---
-title: "Meet: Sharon Cullen of Wellingtons Bistro"
+title: Meet Sharon Cullen of Wellingtons Bistro
 date: 2020-10-26T21:37:51.566Z
 cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1603749429/wellingtons_etfn7l.png
 ---
