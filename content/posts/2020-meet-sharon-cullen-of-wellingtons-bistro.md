@@ -50,6 +50,6 @@ Gotta be Rick Stein: I love following his travels through the Med and Mexico. I 
 \
 **You can find Wellingtons Bistro & Bar at 27 Beach Street**
 
-**Open 9am - 2pm Monday to Friday through winter and weekends 9am - 3pm  [www.wellingtonsdeal.co.u](https://www.wellingtonsdeal.co.uk/)**
+**Open 9am - 2pm Monday to Friday through winter and weekends 9am - 3pm  [www.wellingtonsdeal.co.uk](https://www.wellingtonsdeal.co.uk/)**
 
 **Download the app for a Meatball delivery [www.themeatballcompany.co.uk](https://eur06.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.themeatballcompany.co.uk%2F&data=04%7C01%7C%7C8f366f69358b47a54c8608d874309063%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637387099207124775%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=RFhE41qWE%2Fi7UIwIlaSEvmgG3IeSgljgX6xFB6obEEc%3D&reserved=0)**
