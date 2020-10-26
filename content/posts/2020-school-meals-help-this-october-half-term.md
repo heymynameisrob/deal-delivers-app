@@ -7,13 +7,13 @@ cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,
 
 *If you are a food related business and keen to help over Christmas holidays and future half terms please email hello @ dealdelivers.com with the subject 'School Meals'.*
 
-**Cin Cin Bar**:  Staff have volunteered their time and are offering breakfast club from Monday 26th - Friday 30th October 8am - 11am. Book (no questions asked) Visit their **[Facebook page](https://www.facebook.com/cincinbarandbistro)**
+**Cin Cin Bar:**  Staff have volunteered their time and are offering breakfast club from Monday 26th - Friday 30th October 8am - 11am. Book (no questions asked) Visit their **[Facebook page](https://www.facebook.com/cincinbarandbistro)**
 
 **Soulchef Catering** from Wednesday to Friday from 12. Thursday from 3pm. At the Astor Theatre. Order here 07871176466.  Visit their [Facebook page](https://www.facebook.com/Soulchefcatering/)
 
-**Jill Martin, The Town Kitchen : Tuesday 27th October**, Jill will be making Spaghetti Bolognese. Contact via **[Facebook ](https://www.facebook.com/jill.martin.1460/)**
+**Jill Martin, The Town Kitchen : Tuesday 27th October,** Jill will be making Spaghetti Bolognese. Contact via **[Facebook ](https://www.facebook.com/jill.martin.1460/)**
 
-**The Lane Bakery** will be offering free kids lunch boxes to anyone in need next week* Available for collection between: **11am and 3pm on Wednesday 28th**. Please fill in [this form online](https://www.thelanebakery.co.uk/free-kids-meals) to book *Limited availability \
+**The Lane Bakery** will be offering free kids lunch boxes to anyone in need next week *Available for collection between: **11am and 3pm on Wednesday 28th**. Please fill in [this form online](https://www.thelanebakery.co.uk/free-kids-meals) to book* Limited availability \
 \
 **Brunch Box** is offering free packed lunches. **[Contact via Facebook](https://www.facebook.com/82millhill)**
 
