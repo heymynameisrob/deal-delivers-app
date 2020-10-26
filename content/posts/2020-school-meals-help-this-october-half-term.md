@@ -7,7 +7,7 @@ cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,
 
 *If you are a food related business and keen to help over Christmas holidays and future half terms please email hello @ dealdelivers.com with the subject 'School Meals'.*
 
-**Cin Cin Bar:**  Staff have volunteered their time and are offering breakfast club from Monday 26th - Friday 30th October 8am - 11am. Book (no questions asked) Visit their **[Facebook page](https://www.facebook.com/cincinbarandbistro)**
+**Cin Cin Bar** Staff have volunteered their time and are offering breakfast club from Monday 26th - Friday 30th October 8am - 11am. Book (no questions asked) Visit their **[Facebook page](https://www.facebook.com/cincinbarandbistro)**
 
 **Soulchef Catering** from Wednesday to Friday from 12. Thursday from 3pm. At the Astor Theatre. Order here 07871176466.  Visit their [Facebook page](https://www.facebook.com/Soulchefcatering/)
 
