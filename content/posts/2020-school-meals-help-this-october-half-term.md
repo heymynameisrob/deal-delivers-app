@@ -11,7 +11,7 @@ cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,
 
 **Soulchef Catering** from Wednesday to Friday from 12. Thursday from 3pm. At the Astor Theatre. Order here 07871176466.  Visit their [Facebook page](https://www.facebook.com/Soulchefcatering/)
 
-**Jill Martin, The Town Kitchen : Tuesday 27th October,** Jill will be making Spaghetti Bolognese. Contact via **[Facebook ](https://www.facebook.com/jill.martin.1460/)**
+**Jill Martin, The Town Kitchen : Tuesday 27th October,** Jill will be making Spaghetti Bolognese. Contact via **[Facebook](https://www.facebook.com/TheDealTownKitchen/)** 
 
 **The Lane Bakery** will be offering free kids lunch boxes to anyone in need next week *Available for collection between: **11am and 3pm on Wednesday 28th**. Please fill in [this form online](https://www.thelanebakery.co.uk/free-kids-meals) to book* Limited availability \
 \
@@ -30,8 +30,6 @@ cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,
 **The Goose on the Green** is offering free meals to kids. Check out their menu on **[Facebook here](https://www.facebook.com/GooseontheGreenCafe)** . Closed on Wednesdays.
 
 **Betteshanger Welfare Football Club** in Cavell Square will be open FRI, SAT & SUN providing free meals to all children, whether they play football or not just visit the club cafe
-
-
 
 ##### And visit:
 
