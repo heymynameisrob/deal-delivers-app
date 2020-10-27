@@ -86,7 +86,7 @@ export const Post = (props) => {
         <h1>{title}</h1>
         <p>{dayjs(date).format('D MMM YYYY')}</p>
       </Header>
-     <PostContainer>
+     <PostContainer className="blog-post">
       <Markdown source={content} escapeHtml={false} />      
      </PostContainer>
      <Container style={{paddingTop: '3rem', paddingBottom: '6rem'}}>
