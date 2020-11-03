@@ -29,6 +29,8 @@ Watch this space, because we are looking at opening a small seating Jamaican the
 
 ***In two weeks, you’ll also be able to order through their app and website.***
 
+![](https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604421912/dexter-soulchef-catering_qfeyxz.jpg)
+
 **Are you a cook?**
 
 No- I’m a chef who loves cooking! Every dish I put on a plate has soul and love in it; if I’m not happy with it, it won’t leave my kitchen. Everything we do in Soul Chef is done out of passion.
