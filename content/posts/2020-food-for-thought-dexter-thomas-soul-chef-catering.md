@@ -25,9 +25,9 @@ Watch this space, because we are looking at opening a small seating Jamaican the
 
 ***You can find Dexter at the Astor***
 
-***To order a pick up or delivery, call or text the Soul Food mobile 07871 176466, or message us through Facebook or Instagram. If you fancy our new family combo, just be sure to give us 45 minutes notice, so we can have it ready.***
+***To order a pick up or delivery, call or text the Soul Food mobile 07871 176466, or message us through Facebook or Instagram. If you fancy their new family combo, just be sure to give Dexter 45 minutes notice, so they can have it ready.***
 
-***In two weeks, you’ll also be able to order through their app and website.***
+***ORDER [NOW THROUGH FACEBOOK >](https://www.facebook.com/Soulchefcatering)***
 
 ![](https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604421912/dexter-soulchef-catering_qfeyxz.jpg)
 
