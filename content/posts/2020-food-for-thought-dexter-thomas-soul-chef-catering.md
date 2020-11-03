@@ -1,9 +1,11 @@
 ---
 title: FOOD FOR THOUGHT Dexter Thomas, Soul Chef Catering
 date: 2020-11-03T16:08:03.247Z
-cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604420408/dexter-soulchef-catering_agxvew.jpg
+cover: https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604420700/soulchef-catering_oktxcq.png
 ---
-![](https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604420700/soulchef-catering_oktxcq.png "Dexter on Instagram @soulchefcatering")
+#### Meet Dexter Thomas, founder of Soul Chef Catering, based at the Astor Theatre on Stanhope Road
+
+![](https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604420408/dexter-soulchef-catering_agxvew.jpg "Dexter on Instagram @soulchefcatering")
 
 I was born in Jamaica, the middle child of five, spending my childhood either playing or in the kitchen since I was 9. At 17, I left the Caribbean to come to London with my elder brother to live with my dad and study catering at Lewisham college for 3 years. I always knew becoming a chef was the only thing I wanted to do. After work experience as an apprentice chef in a hotel, my career included the Crown Plaza, Savoy, and working for Jamie Oliver. When I met my wife, who works front-of-house in restaurants, 8 years ago, she wanted a change from London so we moved to Deal to be near her family. I was initially against the idea, especially as my first visit was on a rainy, miserable weekend in November! But I gave Deal a try and have ended up loving the place! Simon who owns Rees and Rees jewellery on High Street kindly provided a place to stay while we looked for somewhere of our own. Meantime, I was away a lot freelancing around the UK and Europe from Wales to Norway. It’s a good job my wife understands the industry! Lockdown stopped me travelling. I started cooking from home initially, providing food for those who couldn’t go out, while my wife was cycling around delivering meals. I was making such a mess in our kitchen, my wife said, "I’m not doing this no more!"
 
@@ -26,8 +28,6 @@ Watch this space, because we are looking at opening a small seating Jamaican the
 ***To order a pick up or delivery, call or text the Soul Food mobile 07871 176466, or message us through Facebook or Instagram. If you fancy our new family combo, just be sure to give us 45 minutes notice, so we can have it ready.***
 
 ***In two weeks, you’ll also be able to order through our app and website.***
-
- 
 
 **Are you a cook?**
 
