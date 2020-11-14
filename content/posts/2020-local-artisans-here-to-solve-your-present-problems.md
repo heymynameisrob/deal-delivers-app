@@ -45,7 +45,7 @@ Jo describes herself as a BFL - Back From Londoner! She worked in the public sec
 
 I also started selling Fusion mineral paint last year. In the last lockdown, fusion mineral paint was in such huge demand as people turned to upcycling home projects they had never got round to, that supplies ran out across the country, so my doorstep delivery was warmly welcomed by many! This lockdown we face a national foam shortage, because foam is a by-product from fuel. As fuel consumption has decreased, those by-products are not available to manufacturers, so prices have increased 20%. Fortunately, I also use a rubberised coir - mix coconut fibre or the traditional horsehair upholstery which has been around since 1920s. It lasts much longer than foam and is a much more eco-friendly product.
 
-#### PLEASE DO 1 THING TODAY, GIVE OUR SUPPORT AND FOLLOW THE VILLAGE COMMUNITY ON INSTAGRAM
+#### PLEASE DO 1 THING TODAY, GIVE YOUR SUPPORT AND FOLLOW THE VILLAGE COMMUNITY ON INSTAGRAM
 
 ##### @thevillagecommunitymarket
 
