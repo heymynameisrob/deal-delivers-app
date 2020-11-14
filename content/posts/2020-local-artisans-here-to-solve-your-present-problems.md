@@ -41,7 +41,7 @@ We know this new lockdown is taking us into the critical Christmas shopping peri
 
 #### **Meet Jo**
 
-![](https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1605340262/image0_d8bcga.jpg "Meet Jo from Take a Seat Upholstery")
+![](https://res.cloudinary.com/dealdelivers/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1605340262/image0_d8bcga.jpg "Meet Jo from Take a Seat Upholstery")
 
 Jo describes herself as a BFL - Back From Londoner! She worked in the public sector, predominantly as commissioner in the NHS, then headed innovation for Age UK National before redundancy saw her head back to Deal and spend the summer questioning what she wanted to do next, having given 35 years in public service. It was Jo’s aunt who inspired her to consider upholstery. “I bought a couple of chairs- I’ve always been a bit of magpie- and went to upholstery classes, initially locally, then at Faversham Upholstery School. Starting a stall at The Village market seemed a bit early, but I felt I had to jump in at the deep end and it’s gone really well.
 
