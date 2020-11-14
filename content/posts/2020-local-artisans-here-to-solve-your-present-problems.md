@@ -27,21 +27,21 @@ People are still learning about The Village, mainly online and in the press, but
 
 In the last lockdown, a few of us worked with [Love Local](https://www.facebook.com/lovelocaldeal1) and found the [Deal Delivers Facebook page](https://www.facebook.com/dealdelivers) a god-send with its free access and ability to post your own updates.
 
-> Now the more tech-savvy amongst us have set up [The Village Market Instagram](https://www.instagram.com/thevillagecommunitymarket/) and [Facebook feeds](https://www.facebook.com/thevillagecommunitymarket), where we are offering all our wonderful local products for sale with FREE doorstep delivery to Deal and the surrounding areas.
+> ##### Now the more tech-savvy amongst us have set up [The Village Market Instagram](https://www.instagram.com/thevillagecommunitymarket/) and [Facebook feeds](https://www.facebook.com/thevillagecommunitymarket), where we are offering all our wonderful local products for sale with FREE doorstep delivery to Deal and the surrounding areas.
 
 For me, being on Deal Delivers has been fantastic. The page has offered a single point of access enabling local people to easily go to one place and know they are supporting local businesses. Deal Delivers has a much wider audience than The Village has. People get fed up of adverts streaming at them from multiple channels, but if they have a single channel, people will take time to consider what they want and enjoy an easy way to get those things.
 
+![pedaalduwer](https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1605340208/pedalduwee_ie8c8j.png "Credit: Pedaalduwer")
+
 We know this new lockdown is taking us into the critical Christmas shopping period, but The Village stallholders are all still desperately hoping we get to join the **Deal Late Night shopping event currently scheduled for Friday 4 December**. All our individual stall holders will be posting on our site and Deal Delivers to share ideas for Christmas gifts - unknown territory for many. I count myself lucky I have work booked in until January that I can deliver from my country workshop and can still go out to quote. All stallholders have different pressures but are working together to offer people a way to access goods and gifts in as safe a way as possible in the coming months. We have done a lot of work to make the market Covid compliant and customer numbers grew as confidence grew. We really benefited from day trippers, weekenders and those on staycations; the town has been buzzing for the last couple of months and we want to continue to give people options for individual and personalised gifts you can’t buy on Amazon, made by real people locally.”
 
- 
-
 #### **Meet Jo**
+
+![](https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1605340262/image0_d8bcga.jpg "Meet Jo from Take a Seat Upholstery")
 
 Jo describes herself as a BFL - Back From Londoner! She worked in the public sector, predominantly as commissioner in the NHS, then headed innovation for Age UK National before redundancy saw her head back to Deal and spend the summer questioning what she wanted to do next, having given 35 years in public service. It was Jo’s aunt who inspired her to consider upholstery. “I bought a couple of chairs- I’ve always been a bit of magpie- and went to upholstery classes, initially locally, then at Faversham Upholstery School. Starting a stall at The Village market seemed a bit early, but I felt I had to jump in at the deep end and it’s gone really well.
 
 I also started selling Fusion mineral paint last year. In the last lockdown, fusion mineral paint was in such huge demand as people turned to upcycling home projects they had never got round to, that supplies ran out across the country, so my doorstep delivery was warmly welcomed by many! This lockdown we face a national foam shortage, because foam is a by-product from fuel. As fuel consumption has decreased, those by-products are not available to manufacturers, so prices have increased 20%. Fortunately, I also use a rubberised coir - mix coconut fibre or the traditional horsehair upholstery which has been around since 1920s. It lasts much longer than foam and is a much more eco-friendly product.
-
- 
 
 #### PLEASE DO 1 THING TODAY, GIVE OUR SUPPORT AND FOLLOW THE VILLAGE COMMUNITY ON INSTAGRAM
 
