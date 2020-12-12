@@ -703,25 +703,6 @@
     "id": "2020-04-10-maxteds-pet-aquatic-and-garden"
   },
   {
-    "safetyTips": "All bikes will have been disinfected prior to delivery and will make individual arrangements for safe handover according to location and security.",
-    "name": "Mike's Bikes",
-    "phone": "07484727755",
-    "pdf": "",
-    "address": "Deal",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1586531363/sandwich_bay_ujofdp.jpg",
-    "tags": [
-      "Wellbeing",
-      "Bikes",
-      "Cycles"
-    ],
-    "website": "http://mikesbikesdeal.com/",
-    "deliveryHours": [],
-    "file": "",
-    "email": "Mike@mikesbikesdeal.com",
-    "description": "We are now able to offer a limited cycle hire service to assist in your wellbeing.  We can deliver bikes within a 5 mile radius for a reduced cost of £15 per day per bike. We ask a minimum of 48 hours hire and we can deliver on Monday or Friday.",
-    "id": "2020-04-10-mikes-bikes"
-  },
-  {
     "safetyTips": "Please speak directly for safety measures.",
     "name": "The Rather Tasty Tea People",
     "phone": "",
@@ -741,17 +722,18 @@
   },
   {
     "name": "Barkened",
-    "description": "Barkened design and make their own and champion other independent makers of goods and gifts for people, dogs and their homes. FREE delivery 7 days a week.  ",
+    "description": "Barkened is a lifestyle store full of handmade goods for people, dogs and homes. We offer free local delivery (often same day) and click and collect. Arrange a virtual appointment where we will FaceTime you and take you round our store, visit our website, or look in the window and call if you would like anything. Our website and Instagram accounts @barkened_ are updated regularly.",
     "tags": [
       "Gifts",
       "Pets",
-      "Homeware"
+      "Homeware",
+      "Clothing"
     ],
     "address": "132 High Street, Deal, Kent, CT14 6BE ",
     "website": "https://barkened.com/",
     "phone": "07977549689",
     "safetyTips": "Contactless deliveries and payment.  ",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1586969892/DSC09091_opytev.jpg",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604659378/barkened_tjwjm6.jpg",
     "id": "2020-04-15-barkened"
   },
   {
@@ -767,7 +749,7 @@
     ],
     "website": "https://www.etsy.com/uk/shop/barrelsandbespoak",
     "email": "barrelsandbespoak@gmail.com",
-    "description": "All our items are handcrafted from whisky barrels & oak making unique & bespoke furniture,lighting, homewares & gifts, we are currently offering a 10% discount & free local delivery please call or message us to order.",
+    "description": "All our items are handcrafted from whisky barrels & oak making unique & bespoke furniture,lighting, homewares & gifts, we are currently offering free local delivery please call or message us to order.",
     "id": "2020-04-15-barrels-and-bespoak"
   },
   {
@@ -1487,21 +1469,6 @@
     "id": "2020-05-13-hog-and-bean"
   },
   {
-    "safetyTips": "collection only",
-    "name": "The Rose",
-    "phone": "01304389127 ",
-    "address": "91 High Street  Deal, Kent CT14 6ED",
-    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/c_limit,f_auto,q_80,w_500/v1589377695/TheRoseMacCheese_whddpa.png",
-    "tags": [
-      "Takeaway",
-      "Food"
-    ],
-    "website": "https://www.therosedeal.com/",
-    "email": "hello@therosedeal.com",
-    "description": "The Rose is doing takeouts on Friday with all proceeds going to the Deal Food Bank. Suggested donation £9. Add a bottle of The Rose house red or white wine £10. Pick up from The Rose, this Friday 5-6pm (some local delivery available). Order in advance by Friday AM by email and check out their instagram @therosedeal to see what's cooking.",
-    "id": "2020-05-13-the-rose"
-  },
-  {
     "safetyTips": "Free local contactless delivery",
     "name": "The Lane",
     "phone": " 01304 448283",
@@ -1651,5 +1618,252 @@
     "email": "thediningclubindeal@gmail.com",
     "description": "The Dining Club in Deal is now open for a lovely 3 course dinner, packaged up and delivered to your door. - we have selected dates for the coming weeks and each menu is different.  You can eat it on the day of delivery / collection or it will keep for 2-3 days.  Cooking and storing details included on each menu.  Ranked in the top 5 on TripAdvisor, you can be sure that Scottie will deliver a truly memorable meal to enjoy at home.  The usual Membership is not essential but it does help you see the menus before anyone else as limited space is available.  Alternatively, you can find the menus on our website or updated on Facebook - Booking dates provided and made by email. If calling please leave a message and we will get back to you.",
     "id": "2020-06-30-deal-dining-club"
+  },
+  {
+    "name": "Bag of Treats",
+    "description": "Creating beautiful gift bags & hampers full of yummy treats from local & independent producers",
+    "tags": [
+      "Gifts",
+      "Hampers"
+    ],
+    "address": "Deal, CT14",
+    "website": "https://www.bagoftreats.co.uk/",
+    "email": "contact@bagoftreats.co.uk",
+    "safetyTips": "Doorstep delivery",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604093171/Capture_yksz9c.jpg",
+    "id": "2020-10-30-bag-of-treats"
+  },
+  {
+    "safetyTips": "Contactless delivery",
+    "name": "Purpledaisy Ltd",
+    "phone": "07453 943329",
+    "address": "Unit 2, Deal Enterprise Centre, Western Rd, Deal, Kent CT14 6PJ",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604093634/purple-daisy_vbxgoc.jpg",
+    "tags": [
+      "Gifts",
+      "Eco-products",
+      "Home & Garden"
+    ],
+    "website": "https://purpledaisyathome.com/",
+    "email": "athome@purpledaisy.co.uk",
+    "description": "Eco-friendly products for around your home and garden.",
+    "id": "2020-10-30-purpledaisy-ltd"
+  },
+  {
+    "safetyTips": "Contact free delivery",
+    "name": "Sea Graze",
+    "phone": "07712 251273",
+    "address": "Walmer, Kent",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604092590/1170A444-B892-44A0-914F-249BFCFFB52A_2_tcnkhv.jpg",
+    "tags": [
+      "Food",
+      "Cheese",
+      "Vegan"
+    ],
+    "website": "https://www.seagraze.co.uk/",
+    "email": "seagrazeorders@gmail.com",
+    "description": "Whatever your grazing taste, Sea Graze has got you covered. Choose from our selection of deli graze boxes for delivery direct to your door. Choose from: Charcuterie box , Cheese graze box, Meat & Cheese graze box, Burrata graze box, Gluten free graze boxes, Vegan friendly cheese deli box. To see the full range and to order yours for this weekend, visit seagraze.co.uk.  We deliver Thursday - Saturday with last orders being taken at 6pm on the day before delivery.  A limited number of boxes are available for each day, so please book early to avoid disappointment.",
+    "id": "2020-10-30-sea-graze"
+  },
+  {
+    "safetyTips": "n/a",
+    "name": "Storm Web Design Ltd",
+    "phone": "01304 806105",
+    "address": "Walmer, Kent",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604092840/storm_logo_with_url_q6i9kl.jpg",
+    "tags": [
+      "Web design"
+    ],
+    "website": "https://storm.agency",
+    "email": "info@storm.agency",
+    "description": "We build websites and applications for businesses throughout the UK.",
+    "id": "2020-10-30-storm-web-design-ltd"
+  },
+  {
+    "safetyTips": "Limited number of people in the kitchen of 2 maximum, limited social interaction, frequent hand washing, wearing gloves during processes that requires touching of product.  ",
+    "name": "The Kent-ish Baker ",
+    "phone": "07769330936",
+    "address": "Deal, Kent",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604094055/88FA8105-C124-423A-BCDD-32C3F89E07F1_ufaxmf.jpg",
+    "tags": [
+      "Cakes",
+      "Brownies",
+      "Vegan",
+      "Afternoon Tea"
+    ],
+    "website": "https://www.thekentishbaker.co.uk/",
+    "email": "hello@thekentishbaker.co.uk",
+    "description": "Macarons, afternoon teas and cakes available for delivery or collection. Please order through the website or contact through Facebook @thekentishbaker",
+    "id": "2020-10-30-the-kent-ish-baker"
+  },
+  {
+    "safetyTips": "Wearing a mask and rubber gloves sanitising everything",
+    "name": "Longshore",
+    "phone": "07935923273",
+    "address": "Longshore 69A high street Deal CT14 6EH",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1604658841/IMG_20201019_134220_554_nyc0yn.jpg",
+    "tags": [
+      "Gifts",
+      "Engraving",
+      "Watch batteries"
+    ],
+    "website": "https://www.graystonesoftankerton.com/",
+    "email": "graystonesoftankerton@gmail.com",
+    "description": "Leather goods shoe repairing key cutting Engraving watch batteries",
+    "id": "2020-11-06-longshore"
+  },
+  {
+    "safetyTips": "We can communicate via Zoom, telephone or socially distancing on the beach or at your place of work",
+    "name": "Ammonite IT",
+    "phone": "07722 009 166",
+    "address": "Ammonite House, Cherry Lane, Gt Mongeham, Deal, CT14 0HG",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1605299554/1_oo01ql.jpg",
+    "tags": [
+      "Web",
+      "Websites"
+    ],
+    "website": "https://ammonite-it.com/",
+    "email": "emma@ammonite-it.com",
+    "description": "Delivering a local, friendly approach to web design. Designing affordable websites for small businesses is what Ammonite do best! Get in touch today and see how we can help you with your online presence.",
+    "id": "2020-11-13-ammonite-it"
+  },
+  {
+    "safetyTips": "We always wear face masks and follow strict hand hygiene procedures. Local delivery is by our own vehicle.",
+    "name": "Beach of Deal ",
+    "phone": "01304 366477",
+    "address": "36 High Street, Deal CT14 6HE",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1605299365/BEACH_DEAL_DELIVERS_jpg_mnukch.png",
+    "tags": [
+      "Gifts",
+      "Home & Garden",
+      "Homewares"
+    ],
+    "website": "https://beachofdeal.co.uk",
+    "email": "sales@beachofdeal.com",
+    "description": "Beach is a home, interiors and gift store on Deal High Street, opposite Boots. We offer a wide range of furniture and homeware, candles, including Yankee Candle and Woodwick, Jellycat soft toys and a broad range of lighting , mirrors, and gift items.   Delivery is free of charge throughout the CT postcode area and we offer a free click and collect service.  Please see our website or call us for more information.",
+    "id": "2020-11-13-beach-of-deal"
+  },
+  {
+    "safetyTips": "Contact less doorstep delivery ",
+    "name": "Cin Cin Bar & Bistro",
+    "phone": "07970669506",
+    "address": "15A South Court, Deal, CT14 7AF ",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1605299077/inbound2888814301291842355_vndrds.jpg",
+    "tags": [
+      "Takeaway",
+      "Roasts",
+      "Food"
+    ],
+    "website": "https://www.facebook.com/cincinbarandbistro",
+    "email": "Cincinbarandbistro@yahoo.com",
+    "description": "Cocktail bar, live music, good food and events! Cin Cin will be delivering our popular Sunday Roasts and a winter warmers menu. ",
+    "id": "2020-11-13-cin-cin-bar-bistro"
+  },
+  {
+    "name": "Dunlin & Diver",
+    "email": "fiona@dunlindiver.co.uk",
+    "phone": "013040373121",
+    "safetyTips": "Masks, hand sanitising, contactless delivery",
+    "description": "We are a lifestyle store selling a range of homewards and gifts. We can deliver locally or offer a click and collect service or a postal service. You can order online at www.dunlindiver.co.uk",
+    "address": "112 High St, Deal CT14 6EE ",
+    "website": "https://www.dunlindiver.co.uk/",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1605298871/Screen_Shot_2020-11-13_at_20.20.36_btlox1.png",
+    "id": "2020-11-13-dunlin-diver"
+  },
+  {
+    "safetyTips": "Contactless delivery, contactless payment available on doorstep also.",
+    "name": "The Just Reproach - Deal's Micropub",
+    "phone": "07754 312405",
+    "address": "14 King Street, Deal, CT14 6HX",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1605299895/125034391_814774052651249_4579741828363816078_n_noeksx.jpg",
+    "tags": [
+      "Pub",
+      "Takeaway Beer",
+      "Cider"
+    ],
+    "website": "https://www.facebook.com/The-Just-Reproach-Deals-Micropub-214290775307658/",
+    "deliveryHours": [
+      "Thursday 16:00 - 17:00",
+      "Friday 16:00 - 17:00",
+      "Saturday 16:00 - 17:00"
+    ],
+    "email": "nicktaylor91@outlook.com",
+    "description": "The Just Reproach is one of Deal's premier real ale outlets stocking an ever-changing range of beers in cask, bottle and can. Alongside an exciting range of beers is a community hub with a warm and welcoming atmosphere and a commitment to support good causes both near and far. You can view our current, takeaway, options on Facebook, Instagram or Twitter and place an order on 077 543 12405 for delivery or collection. Hopefully normal service will soon be resumed but, in the meantime, stay safe and drink good beer! ",
+    "id": "2020-11-13-the-just-reproach-deals-micropub"
+  },
+  {
+    "name": "Tormore School House",
+    "description": "Creative living by the coast, currently delivering Christmas wreaths, inspired by the beauty of Deal. Designs include: Bluebell Woods, Middle Street, Wellington Parade and Marine Chateau. Email or direct message via Facebook or Instagram ",
+    "tags": [
+      "Gifts",
+      "Christmas",
+      "Flowers"
+    ],
+    "address": "2 Tormore Mews Rectory Road, Deal, CT14 9SX",
+    "website": "https://tormoreschoolhouse.com/",
+    "safetyTips": "Masks and gloves worn, socially distanced doorstep delivery or collection. ",
+    "email": "laura@tormoreschoolhouse.com",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1605298618/DealDeliversTSH_fbfpsh.jpg",
+    "id": "2020-11-13-tormore-school-house"
+  },
+  {
+    "safetyTips": "Government advice with regard Covid strictly adhered to.",
+    "name": "Cloverdale Glass Studio",
+    "phone": "07835111994",
+    "address": "Cloverdale, Willow Woods road, Little Mongeham. CT14 0HP.",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1607034514/IMG_20201029_095349_odzbho.jpg",
+    "tags": [
+      "Gifts",
+      "Home and Garden",
+      "Garden"
+    ],
+    "website": "http://www.cloverdaleglassstudio.co.uk/",
+    "email": "atkinswendy@hotmail.co.uk",
+    "description": "We are  based in Little Mongeham, providing workshops and classes and making and selling stained and etched glass art; items ranging from stained glass sun-catchers to small windows. ",
+    "id": "2020-12-03-cloverdale-glass-studio"
+  },
+  {
+    "safetyTips": "Extended cleaning times & Virakill to be used on every surface",
+    "name": "Keepers Cottages",
+    "phone": "01304382044",
+    "address": "8A North Barrack Road, Walmer, Kent, CT14 7DU",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1607034720/Untitled_g16zjp.pdf",
+    "tags": [
+      "Holiday Lets"
+    ],
+    "website": "https://www.keeperscottages.co.uk/",
+    "email": "enquiries@keeperscottages.co.uk",
+    "description": "Keepers Cottages is the leading letting agency for holiday homes in Deal and the surrounding area in Kent. We have been managing holiday homes in this area for many years and we have a wealth of local knowledge to ensure our holiday guests find their perfect holiday. We take great care of our holiday guests from the moment they book and right throughout their stay, so you can thoroughly relax and enjoy this wonderful part of the world.",
+    "id": "2020-12-03-keepers-cottages"
+  },
+  {
+    "safetyTips": "Delivering with Masks",
+    "name": "Lavender and Blackberry",
+    "phone": "07557785549",
+    "address": "71 Middle street   Deal.  CT14 6HN ",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1607034083/lavender-blackberry_uamkqj.jpg",
+    "tags": [
+      "Flowers",
+      "Weddings"
+    ],
+    "website": "https://www.lavenderandblackberry.com/",
+    "email": "jennie@lavenderandblackberry.com",
+    "description": "Gorgeous hand tied bouquets of flowers made by fully trained florists and different types of indoor and outdoor plants",
+    "id": "2020-12-03-lavender-and-blackberry"
+  },
+  {
+    "safetyTips": "I will message the customer prior to delivery, a knock and the door and leaving the package at your door within social distance. I will be wearing a mask.",
+    "name": "LJ Artisan",
+    "phone": "07840452333",
+    "address": "84 Golf Rd, Deal CT14 6GB",
+    "cover": "https://res.cloudinary.com/dealdelivers/image/upload/c_limit,f_auto,q_80,w_500/v1607034322/Etsy_Banner_1_gwzwve.png",
+    "tags": [
+      "Gifts",
+      "Jewellery"
+    ],
+    "website": "https://www.etsy.com/uk/shop/LJARTISAN",
+    "email": "ljartisan@yahoo.com",
+    "description": "Handcrafted jewellery and gifts based on Celtic and Viking Designs.",
+    "id": "2020-12-03-lj-artisan"
   }
 ]
