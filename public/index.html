@@ -51,6 +51,7 @@
     -->
   </body>
   <script>
-    document.querySelector('.react-fuzzy-filter__input').placeholder = "Bread, coffee, beer, prescriptions";
+    let fuzzyInput = document.querySelector('.react-fuzzy-filter__input');
+    if (fuzzyInput) fuzzyInput.placeholder = "Bread, coffee, beer, prescriptions";    
   </script>
 </html>
